@@ -11,3 +11,5 @@
 UX project for DH110
 
 https://www.ucla.edu/
+
+[let's go UCLA!](https://www.ucla.edu/)

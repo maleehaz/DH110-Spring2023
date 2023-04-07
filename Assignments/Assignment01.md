@@ -8,3 +8,11 @@ View the full site here: [Collectionaire](https://collectionaire.com/)
 #### Background Information
 Collectionaire is an organization with a mission to help seniors to write creative stories. To do this, users can make an account, go to their "Creativity Center", and select a prompt to follow. From there, users can type their story in a text box or upload a photo of a written response. The website also has extensive information on what TimeSlips is, services that they provide, resources, news, and ways to get involved with the organization.
 #### Heuristic Evaluation
+
+
+## Competitor B: My Stories Matter
+![My Stories Matter homepage](mystoriesmatter-screenshot.png)
+View the full site here: [My Stories Matter](https://www.mystoriesmatter.com/)
+#### Background Information
+My Stories Matter is an organization with a mission to help seniors to write creative stories. To do this, users can make an account, go to their "Creativity Center", and select a prompt to follow. From there, users can type their story in a text box or upload a photo of a written response. The website also has extensive information on what TimeSlips is, services that they provide, resources, news, and ways to get involved with the organization.
+#### Heuristic Evaluation

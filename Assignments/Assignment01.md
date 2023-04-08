@@ -13,7 +13,7 @@ _Overall Evaluation_:
 ### 1. Visibility of system status
 >The website clearly informs the user about its current status.<br>
 
-#### GOOD
+**GOOD**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 + The site lets the user know the members being affected when they edit information on the tree by enlarging the icon of the family member.<br><img src="h1_singleiconenlargement.png" width=25% height=25%> <img src="h1_twoiconenlargement.png" width=25% height=25%>
 + The site clearly lets the user know if an invitation to view their collection has been sent by darkening the rest of the screen and showing a pop-up saying “Success!”.<br><img src="h1_success.png" width= 35% height= 35%> <br>

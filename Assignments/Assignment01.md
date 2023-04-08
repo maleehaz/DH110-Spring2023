@@ -1,15 +1,10 @@
 # Assignment 01: Heuristic Evaluation - Maleeha Zaman, DH110
 ## Tentative Title: Family Memory Archival 
->When my parents immigrated to America from Pakistan, they were only able to bring a few pictures with them and had to leave most of them at home. I've always wanted to see lots of pictures of my mom because she would always talk about how she was very popular with guys when she was young and her crazy adventures during her college days. When we did travel back to Pakistan to visit my grandparents, however, we found most of the photos had been lost during the moving process or misplaced. Losing these pictures felt like years worth of precious memories had been lost and they were saddened they weren't able to share these memories with me. 
-
->I feel preserving both new and old photos of our loved ones is more important than ever, so we can share with our future generations and be able to look back at them at our convenience. In this age, memory archival has become vastly digitized, such that most of the photos we take are stored in our phones. However, this does not account for the past of our parents and grandparents, where most of their photos are physical due to film photography being the primary means of recording memories of their younger days. I want to contribute with this UX project by creating a website or app to preserve the precious memories of family members and make it convenient for any member of the family to upload the photos they have and view them all in one place. 
-
->In this assignment, I will conduct a heuristic evaluation of two websites with goals similar to the ones of this project. The first, Collectionaire, documents family trees with memories all in one place where it can be viewed by anyone in the family. The second, My Stories Matter, is a collaborative story book where family members can contribute journal entries and photos. 
+>When my parents immigrated to America from Pakistan, they were only able to bring a few pictures with them and had to leave most of them at home. I've always wanted to see lots of pictures of my mom because she would always talk about how she was very popular with guys when she was young and her crazy adventures during her college days. When we did travel back to Pakistan to visit my grandparents, however, we found most of the photos had been lost during the moving process or misplaced. Losing these pictures felt like years worth of precious memories had been lost and it was sad they weren't able to share these memories with me. In this age, memory archival has become vastly digitized, such that most of the photos we take are stored in our phones. However, this does not account for the past of our parents and grandparents, where most of their photos are physical due to film photography being the primary means of recording memories of their younger days. I plan to contribute through this UX project in order to preserve precious family memories to be shared across future generations and viewed at the user's convenience.
 
 ## Competitor A: Collectionaire
 ![Collectionaire homepage](collectionaire-screenshot.png)
 View the full site here: [Collectionaire](https://collectionaire.com/)
-#### Background Information
 >Collectionaire is a website with a mission to document family history and archive immediate family's memories. To do this, users can make an account, go to their "Create a new collection", and select a type of collection to make (Family Tree or Organization structure). From there, users can build a family tree or import a FamilySearch or GEDCOM file as a tree. The website has extensive information on what Connectionaire is, services that they provide, and video tutorials. 
 #### Heuristic Evaluation
 _Overall Evaluation_:
@@ -18,24 +13,41 @@ _Overall Evaluation_:
 ### 1. Visibility of system status
 >The website clearly informs the user about its current status.<br>
 
-**Good**: The site lets the user know the members being affected when they edit information on the tree by enlarging the icon of the family member.
-![singleicon](h1_singleiconenlargement.png) ![twoicon](h1_twoiconenlargement.png)
+**Good**: The site lets the user know the members being affected when they edit information on the tree by enlarging the icon of the family member.<br>
+![singleicon](h1_singleiconenlargement.png) ![twoicon](h1_twoiconenlargement.png) <br>
 **Good**: The site clearly lets the user know if an invitation to view their collection has been sent by darkening the rest of the screen and showing a pop-up saying “Success!”.<br>
-![success](h1_success.png)<br>
+<img src="h1_success.png" width=50% height=50%> <br>
 **Bad**: The site lets the user know when they are in tree editing mode by having a tab on the side appear that says “Tree Edit Mode”, however the site does not indicate when the user is in collection viewing mode. This is inconsistent and can confuse the user as to which mode of editing they are in.<br>
 ![treeeditmode](h1_treeeditingmode.png)<br>
 _Severity Rating: 2_<br>
 _Recommendation: Add a tab when the user is in collection viewing mode that says “Collection Viewing Mode”._ <br>
-**2\. Match between system and the real world**
-The website uses language that is familiar to the user and presents information in a way that is analogous to the real world | **Good**: The site uses terms like "My Dashboard", "My Training", "My Tasks", "My Stories"<br>**Bad**: The page for writing stories is called the "Creativity Center" which may not be intuitive to all users.|                                                                                                           
-| **3\. User control and freedom**<br>The website gives users a way to easily undo an unwanted action                                                                             | **Good**: The text input box for stories allows the user to undo an action by using the "ctrl+z" keys<br>**Bad**: The only way to undo an action in the text box is with "ctrl+z", there are no buttons for the user to use.|                                                                                                   
-| **4\. Consistency and standards**<br>The website follows conventions followed by similar websites                                                                               | **Good**: The site has menu option listed at both the top and bottom of the screen. These menu options collapse into a sidebar with three lines when the window width is narrow.<br>**Good**: Clicking on "TimeSlips" on the top of any page takes the user back to the home page.<br>**Bad**: The sidebar menu is a standard convention, but may be more difficult for seniors to navigate than having options available at the top of the page.| 
-| **5\. Error prevention**<br>The website prevents errors by reducing error-prone conditions or checking for them and notifying the user                                          | **Bad**: The text input box for storytelling does not have spelling and grammar check options.<br>**Bad**: On the storytelling page, the site lets me navigate to a new page without saving my work.                                                                                                                                                                                                                                                         | 
-| **6\. Recognition rather than recall**<br>The website makes information needed to navigate the website visible or easily accessible                                             | **Good**: The site's search bar labels results by "Page", "News", "FAQ" and "Story", allowing the user to easily select what they are looking for. <br>**Bad**: Each menu option has several sub-menu options nestled within it, forcing the user to recall the organization of the site.                                                                                                                                                                     | 
-| **7\. Flexibility and efficiency of use**<br>The website allows processes to be tailored to all users from novice to expert                                                     | **Good**: The storytelling page gives users different options to input their story, allowing them to type, upload a photo, or audio record a response.<br>**Bad**: The text input box doesn't allow users to use text editing shortcuts like "ctrl+B" to make text bold.                                                                                                                                                                                      | 
-| **8\. Aesthetic and minimalist design**<br>The website only contains information that is relevant and is designed to highlight the essentials                                   | **Good**: The site has 3 text size options for users to choose from.<br>**Bad**: "Creativity Center", the place to go to write stories, is not easily findable. There is a lot of "extra" information that pertains to the organization that makes it hard to find the information that is for the storytelling.                                                                                                                                              | 
-| **9\. Help users recognize, diagnose, and recover from errors**<br>The website provides clear error messages that state the problem and potential solutions                     | **Good**: If the user provides incorrect sign in information, the site tells the user that they have "Invalid Email or password"<br>**Bad**: The site does not specify which input is invalid and leaves the email address provided filled in, even if it is incorrect.                                                                                                                                                                                       | 
-| **10\. Help and documentation**<br>The website has resources to help users understand how to complete tasks                                                                     | **Good**: The site has a "FAQ" page and a "Contact Us" button that leads to a Contact page within the site.<br>**Bad**: The "FAQ" page is hidden within the "About" menu options and is hard to find.<br>**Bad**: The "FAQ" page does not have a section dedicated to the storytelling dashboard.                                                                                                                                                                 | 
+
+### 2. Match between system and the real world
+>The website uses language that is familiar to the user and presents information in a way that is analogous to the real world<br>
+**Good**: The site uses terms like "My Dashboard", "My Training", "My Tasks", "My Stories"<br>
+**Bad**: The page for writing stories is called the "Creativity Center" which may not be intuitive to all users.                                                                                                          
+### 3. User control and freedom
+>The website gives users a way to easily undo an unwanted action<br>                                                                             
+                                                                                               
+### 4. Consistency and standards
+>The website follows conventions followed by similar websites<br>
+
+### 5. Error prevention
+>The website prevents errors by reducing error-prone conditions or checking for them and notifying the user<br>
+                                                                              
+### 6. Recognition rather than recall
+>The website makes information needed to navigate the website visible or easily accessible<br>
+                                           
+### 7. Flexibility and efficiency of use
+>The website allows processes to be tailored to all users from novice to expert<br>                                                                                                                                                                       
+### 8. Aesthetic and minimalist design
+>The website only contains information that is relevant and is designed to highlight the essentials<br>  
+                                
+### 9. Help users recognize, diagnose, and recover from errors
+>The website provides clear error messages that state the problem and potential solutions<br>
+
+### 10. Help and documentation
+>The website has resources to help users understand how to complete tasks<br>
 
 
 ## Competitor B: My Stories Matter

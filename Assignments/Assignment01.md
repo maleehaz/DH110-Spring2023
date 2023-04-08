@@ -15,14 +15,15 @@ View the full site here: [Collectionaire](https://collectionaire.com/)
 _Overall Evaluation_: 
 **1\. Visibility of system status**
 >The website clearly informs the user about its current status
+
 **Good**: The site lets the user know the members being affected when they edit information on the tree by enlarging the icon of the family member.
 ![singleicon](h1_singleiconenlargement.png) ![twoicon](h1_twoiconenlargement.png)
-**Good**: The site clearly lets the user know if an invitation to view their collection has been sent by darkening the rest of the screen and showing a pop-up saying “Success!”.
-![success](h1_success.png)
-**Bad**: The site lets the user know when they are in tree editing mode by having a tab on the side appear that says “Tree Edit Mode”, however the site does not indicate when the user is in collection viewing mode. This is inconsistent and can confuse the user as to which mode of editing they are in.
-![treeeditmode](h1_treeeditingmode.png)
-_Severity Rating: 2_
-_Recommendation: Add a tab when the user is in collection viewing mode that says “Collection Viewing Mode”._ 
+**Good**: The site clearly lets the user know if an invitation to view their collection has been sent by darkening the rest of the screen and showing a pop-up saying “Success!”.<br>
+![success](h1_success.png)<br>
+**Bad**: The site lets the user know when they are in tree editing mode by having a tab on the side appear that says “Tree Edit Mode”, however the site does not indicate when the user is in collection viewing mode. This is inconsistent and can confuse the user as to which mode of editing they are in.<br>
+![treeeditmode](h1_treeeditingmode.png)<br>
+_Severity Rating: 2_<br>
+_Recommendation: Add a tab when the user is in collection viewing mode that says “Collection Viewing Mode”._ <br>
 **2\. Match between system and the real world**
 The website uses language that is familiar to the user and presents information in a way that is analogous to the real world | **Good**: The site uses terms like "My Dashboard", "My Training", "My Tasks", "My Stories"<br>**Bad**: The page for writing stories is called the "Creativity Center" which may not be intuitive to all users.|                                                                                                           
 | **3\. User control and freedom**<br>The website gives users a way to easily undo an unwanted action                                                                             | **Good**: The text input box for stories allows the user to undo an action by using the "ctrl+z" keys<br>**Bad**: The only way to undo an action in the text box is with "ctrl+z", there are no buttons for the user to use.|                                                                                                   

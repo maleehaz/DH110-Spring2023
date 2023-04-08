@@ -12,8 +12,10 @@ View the full site here: [Collectionaire](https://collectionaire.com/)
 #### Background Information
 >Collectionaire is a website with a mission to document family history and archive immediate family's memories. To do this, users can make an account, go to their "Create a new collection", and select a type of collection to make (Family Tree or Organization structure). From there, users can build a family tree or import a FamilySearch or GEDCOM file as a tree. The website has extensive information on what Connectionaire is, services that they provide, and video tutorials. 
 #### Heuristic Evaluation
-_Overall Evaluation_: 
-**1\. Visibility of system status**
+_Overall Evaluation_:
+<br>
+<br>
+### 1. Visibility of system status
 >The website clearly informs the user about its current status.<br>
 
 **Good**: The site lets the user know the members being affected when they edit information on the tree by enlarging the icon of the family member.

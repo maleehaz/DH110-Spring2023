@@ -14,7 +14,7 @@ View the full site here: [Collectionaire](https://collectionaire.com/)
 #### Heuristic Evaluation
 _Overall Evaluation_: 
 **1\. Visibility of system status**
->The website clearly informs the user about its current status
+>The website clearly informs the user about its current status.<br>
 
 **Good**: The site lets the user know the members being affected when they edit information on the tree by enlarging the icon of the family member.
 ![singleicon](h1_singleiconenlargement.png) ![twoicon](h1_twoiconenlargement.png)

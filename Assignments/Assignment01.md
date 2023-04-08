@@ -21,23 +21,51 @@ The website clearly informs the user about its current status.<br>
 >+ The site lets the user know when they are in tree editing mode by having a tab on the side appear that says “Tree Edit Mode”, however the site does not indicate when the user is in collection viewing mode. This is inconsistent and can confuse the user as to which mode of editing they are in.<br><img src= "h1_treeeditingmode.png" width=25% height=25%> <br>_Severity Rating: 2_<br>_Recommendation: Add a tab when the user is in collection viewing mode that says “Collection Viewing Mode”._ <br>
 
 ### 2. Match between system and the real world
->The website uses language that is familiar to the user and presents information in a way that is analogous to the real world<br>
-**Good**: The site uses terms like "My Dashboard", "My Training", "My Tasks", "My Stories"<br>
-**Bad**: The page for writing stories is called the "Creativity Center" which may not be intuitive to all users.                                                                                                          
+The website uses language that is familiar to the user and presents information in a way that is analogous to the real world<br>
+
+>**GOOD**
+>+ The site utilizes a search bar for linked albums and a search bar for people when viewing collections. The placeholder of the text in the search bars are very specific and understandable. The album search bar says "Keyword, name, etc.;search all Linked Albums" and the people search bar says "Enter a few characters of a name". Having specific text placeholders within the search bar that prompt the user what to type into it is very helpful for the user's habits and denotes the relevant information they can search to find a person or album.<br><img src="h2_searchbar.png" width=25% height=25%><br>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>**BAD**
+>+ The navigation menu uses terms that could be misguiding users to get to where they want to be, particularly "View Collections" and "Guest Permissions".<br><img src= "h2_searchbar.png" width=25% height=25%> <br>_Severity Rating: 1_<br>_Recommendation: Consider modifying navigation text to something more helpful towards users' existing habits. Perhaps changing "View Collections" to "My Collections" and "Guest Permissions" to "Share Collections"._ <br>      
+                                                                                         
 ### 3. User control and freedom
->The website gives users a way to easily undo an unwanted action<br>                                                                             
+The website gives users a way to easily undo an unwanted action<br>
+
+>**GOOD**
+>+ The site has a save or cancel option when editing any text, such as names, titles, or descriptions. This is helpful for the user who might not want to save the changes they made and allow them to keep the previous version of the text.<br><img src="h3_saveorcancel.png" width=25% height=25%><br>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>**BAD**
+>+ The only way to undo an action while editing the collection is through the undo button, the user can't use "ctrl+z" keys. Furthermore, the user can't redo their work, they can only undo it.<br><img src="h3_undobutton.png" width=25% height=25%><br>_Severity Rating: 2_<br>_Recommendation: Add a forward arrow to the side bar that users can click on to redo their work. Add functionality for users to use "ctrl+z" keys for undo and "ctrl+y" keys for redo._ <br> 
                                                                                                
 ### 4. Consistency and standards
->The website follows conventions followed by similar websites<br>
+The website follows conventions followed by similar websites.<br>
+
+>**GOOD**
+>+ Clicking on "Collectionaire" on the top left corner of the page takes the user back to the homepage.
+>+ The options of the navigation bar is listed at the top of the screen. These options collapse into a hamburger menu when the window width is narrow.<br><img src="h4_hamburger.png" width=25% height=25%> <img src="h4_fulllength.png" width=25% height=25%> <br>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>**BAD**
+>+ The term "Exit" when hovering over the user's account is unconventional and difficult to understand.<br><img src="h4_exit.png" width=25% height=25%><br>_Severity Rating: 2_<br>_Recommendation: Change the term "Exit" to "log Out" which follows standard account conventions._ <br> 
 
 ### 5. Error prevention
->The website prevents errors by reducing error-prone conditions or checking for them and notifying the user<br>
+The website prevents errors by reducing error-prone conditions or checking for them and notifying the user.<br>
+
+>**GOOD**
+>+ The site autosaves the collection when navigating to a new page, and it doesn't allow the user to navigate to a new page before deciding to save or cancel the work the user has done.<br> 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>**BAD**
+>+ The text input box for descriptions of albums, people, or events does not have spelling or grammar check options.<br><img src="h5_grammar.png" width=25% height=25%><br>_Severity Rating: 3_<br>_Recommendation: Add spell check to the text input boxes to prevent grammar errors._ <br> 
                                                                               
 ### 6. Recognition rather than recall
->The website makes information needed to navigate the website visible or easily accessible<br>
+The website makes information needed to navigate the website visible or easily accessible.<br>
+
+>**BAD**
+>+ The editing modes for a collection are inconsistent with each other. The tree editing mode has a button to navigate to the other mode that says “Exit Tree Editing Mode”, however the collection viewing mode has no button to navigate to tree editing mode. The user has to click on the three dots and “Edit Tree” to switch to tree editing mode.<br> <img src = "h6_exitmode.png" width = 25% height = 25%><br>_Severity Rating: 3_<br>_Recommendation: When the user is in tree editing mode, instead of having a button that says “Exit Tree Edit Mode”, have a button that says “Switch to Collection Viewing Mode”. Apply this vice versa for collection viewing mode with a button that says “Switch to Tree Edit Mode”._<br>
+>+ The "Guest Permissions" option on the navigation bar has sub-menu options within it that specify an action related to invites and requests. Some options sound too redundant and unneccesary which can be confusing for the user.<br><img src="h6_guestperm.png" width=25% height=25%><br>_Severity Rating: 3_<br>_Recommendation: Consolidate the sub-menu options to reduce cognitive load on users. Perhaps condense "Invite Friends and Family to View or Edit" and "Invitations & Requests to View My Collection" to one sub-menu option "Invitations & Requests to Access My Collections"._<br>
                                            
 ### 7. Flexibility and efficiency of use
->The website allows processes to be tailored to all users from novice to expert<br>                                                                                                                                                                       
+>The website allows processes to be tailored to all users from novice to expert.<br>                                                                                                                                                                       
 ### 8. Aesthetic and minimalist design
 >The website only contains information that is relevant and is designed to highlight the essentials<br>  
                                 

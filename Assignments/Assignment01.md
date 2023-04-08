@@ -16,9 +16,9 @@ The website clearly informs the user about its current status.<br>
 >**GOOD**
 >+ The site lets the user know the members being affected when they edit information on the tree by enlarging the icon of the family member.<br><img src="h1_singleenlargement.png" width=25% height=25%> <img src="h1_twoenlargement.png" width=25% height=25%>
 >+ The site clearly lets the user know if an invitation to view their collection has been sent by darkening the rest of the screen and showing a pop-up saying “Success!”.<br><img src="h1_success.png" width= 35% height= 35%> <br>
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >**BAD**
-+ The site lets the user know when they are in tree editing mode by having a tab on the side appear that says “Tree Edit Mode”, however the site does not indicate when the user is in collection viewing mode. This is inconsistent and can confuse the user as to which mode of editing they are in.<br><img src= "h1_treeeditingmode.png" width=25% height=25%> <br>_Severity Rating: 2_<br>_Recommendation: Add a tab when the user is in collection viewing mode that says “Collection Viewing Mode”._ <br>
+>+ The site lets the user know when they are in tree editing mode by having a tab on the side appear that says “Tree Edit Mode”, however the site does not indicate when the user is in collection viewing mode. This is inconsistent and can confuse the user as to which mode of editing they are in.<br><img src= "h1_treeeditingmode.png" width=25% height=25%> <br>_Severity Rating: 2_<br>_Recommendation: Add a tab when the user is in collection viewing mode that says “Collection Viewing Mode”._ <br>
 
 ### 2. Match between system and the real world
 >The website uses language that is familiar to the user and presents information in a way that is analogous to the real world<br>

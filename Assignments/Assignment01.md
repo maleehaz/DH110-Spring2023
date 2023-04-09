@@ -71,14 +71,27 @@ The website allows processes to be tailored to all users from novice to expert.<
 >+ The collection editing page for each family member gives users different options to add descriptions of the family member, linked albums, and a timeline. Such editing features include adding photos or text.<br><img src = "h7_edit.png" width=25% height=25%><br> 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >**BAD**
->+ There is no option to audio record a memory or any speech to text option, which makes it less efficient to use for people who may not be as good with typing and who would like to speak about the memories being added to the collection. _Severity Rating: 3_<br>_Recommendation: Add a speech to text and audio recording feature._<br> 
->+ Having two editing modes, tree editing mode and collection viewing mode, can be inefficient and frustrating for the user to constantly switch between the two to perform one action. 
+>+ There is no option to audio record a memory or any speech to text option, which makes it less efficient to use for people who may not be as good with typing and who would like to speak about the memories being added to the collection.<br>_Severity Rating: 3_<br>_Recommendation: Add a speech to text and audio recording feature._<br> 
+>+ Having two editing modes, tree editing mode and collection viewing mode, can be inefficient and frustrating for the user to constantly switch between the two to perform one action.<br>_Severity Rating: 3_<br>_Recommendation: Consolidate editing modes into one single editing mode where the user is able to access both actions related to editing the tree or collections. This will make the editing process much quicker and more efficient for users._<br>   
                                                                 
 ### 8. Aesthetic and minimalist design
 The website only contains information that is relevant and is designed to highlight the essentials<br>  
-                                
+ 
+>**GOOD**
+>+ The user can expand and collapse albums when viewing collections.<br><img src = "h8_expand-collapse.png" width=25% height=25%><br> 
+>+ The editing page for a family member is very minimalistic and easy to navigate for the user. The page utilizes plus icons and simple vocabulary so the user can instantly find what part of the member profile they want to edit.<br><img src = "h8_familyeditpage.png" width=25% height=25%><br> 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>**BAD**
+>+ The user has to scroll through a long introduction page on the landing page to get to the footer menu, which has options that can't be accessed at the navigation bar on the top of the page. This wordy and long introduction page can be frustrating for the user to find the "Contact Us" or "Privacy and Security" pages.<br>_Severity Rating: 3_<br>_Recommendation: Reduce the information on the introduction page to a simple blurb about the mission of the website and move any other information to the blog or FAQ page. This way it will make the landing page design less overwhelming and more minimalistic. The user would also be able to scroll down to the footer menu much faster._<br> 
+
 ### 9. Help users recognize, diagnose, and recover from errors
 The website provides clear error messages that state the problem and potential solutions<br>
+
+>**GOOD**
+>+ When the user enters an invalid email address on the login page, they are redirected to creating a free account with the invalid email already inputted onto the form already.<br><img src = "h9_invalidemail.png" width=25% height=25%><br> 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>**BAD**
+>+ When the user edits a family member, they can save the profile even without filling out the required fields marked with a red astrix.<br><img src = "h9_editinfo.png" width=25% height=25%><br> _Severity Rating: 2_<br>_Recommendation: Prompt the user before saving as to whether they would like to leave these fields blank, so that the user is informed that key information is missing from the profile before they continue making their tree. Having something on their profile indicate this missing information on the tree-view would also help users easily identify which members are still missing key information._<br> 
 
 ### 10. Help and documentation
 The website has resources to help users understand how to complete tasks<br>

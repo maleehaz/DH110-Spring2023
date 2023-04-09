@@ -96,6 +96,12 @@ The website provides clear error messages that state the problem and potential s
 ### 10. Help and documentation
 The website has resources to help users understand how to complete tasks<br>
 
+>**GOOD**
+>+ The website includes "Navigation Rules and Tips" tab in the collections editor that gives the user a concise list of tips of the functionalities of buttons in the collection view.<br><img src = "h10_navhelp.png" width=25% height=25%><img src = "h10_navtips.png" width=20% height=20%><br> 
+>+ The website has a "Help and Support" page that can be accessed through the navigation menu at the top. It has a lot of frequently asked questions, a link to view help videos, and a search bar to find a certain topic.<br><img src = "h10_faq.png" width=20% height=20%><br> 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>**BAD**
+>+ The "Help Videos" page does not have a video or videos dedicated to sharing collections and requesting to view a collection, which is inefficient for users who might not understand the written explanation and need a visual to understand how to share.<br> _Severity Rating: 2_<br>_Recommendation: Add a video or videos to the "Help Videos" page dedicated to tutorials on sharing and requesting to view collections._<br> 
 
 ## Competitor B: My Stories Matter
 ![My Stories Matter homepage](mystoriesmatter-screenshot.png)

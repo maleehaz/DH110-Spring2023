@@ -65,15 +65,23 @@ The website makes information needed to navigate the website visible or easily a
 >+ The "Guest Permissions" option on the navigation bar has sub-menu options within it that specify an action related to invites and requests. Some options sound too redundant and unneccesary which can be confusing for the user.<br><img src="h6_guestperm.png" width=25% height=25%><br>_Severity Rating: 3_<br>_Recommendation: Consolidate the sub-menu options to reduce cognitive load on users. Perhaps condense "Invite Friends and Family to View or Edit" and "Invitations & Requests to View My Collection" to one sub-menu option "Invitations & Requests to Access My Collections"._<br>
                                            
 ### 7. Flexibility and efficiency of use
->The website allows processes to be tailored to all users from novice to expert.<br>                                                                                                                                                                       
+The website allows processes to be tailored to all users from novice to expert.<br>
+
+>**GOOD**
+>+ The collection editing page for each family member gives users different options to add descriptions of the family member, linked albums, and a timeline. Such editing features include adding photos or text.<br><img src = "h7_edit.png" width=25% height=25%><br> 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>**BAD**
+>+ There is no option to audio record a memory or any speech to text option, which makes it less efficient to use for people who may not be as good with typing and who would like to speak about the memories being added to the collection. _Severity Rating: 3_<br>_Recommendation: Add a speech to text and audio recording feature._<br> 
+>+ Having two editing modes, tree editing mode and collection viewing mode, can be inefficient and frustrating for the user to constantly switch between the two to perform one action. 
+                                                                
 ### 8. Aesthetic and minimalist design
->The website only contains information that is relevant and is designed to highlight the essentials<br>  
+The website only contains information that is relevant and is designed to highlight the essentials<br>  
                                 
 ### 9. Help users recognize, diagnose, and recover from errors
->The website provides clear error messages that state the problem and potential solutions<br>
+The website provides clear error messages that state the problem and potential solutions<br>
 
 ### 10. Help and documentation
->The website has resources to help users understand how to complete tasks<br>
+The website has resources to help users understand how to complete tasks<br>
 
 
 ## Competitor B: My Stories Matter

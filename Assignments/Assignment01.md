@@ -27,7 +27,7 @@ The website uses language that is familiar to the user and presents information 
 >+ The site utilizes a search bar for linked albums and a search bar for people when viewing collections. The placeholder of the text in the search bars are very specific and understandable. The album search bar says "Keyword, name, etc.;search all Linked Albums" and the people search bar says "Enter a few characters of a name". Having specific text placeholders within the search bar that prompt the user what to type into it is very helpful for the user's habits and denotes the relevant information they can search to find a person or album.<br><img src="h2_searchbar.png" width=25% height=25%><br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >**BAD**
->+ The navigation menu uses terms that could be misguiding users to get to where they want to be, particularly "View Collections" and "Guest Permissions".<br><img src= "h2_searchbar.png" width=25% height=25%> <br>_Severity Rating: 1_<br>_Recommendation: Consider modifying navigation text to something more helpful towards users' existing habits. Perhaps changing "View Collections" to "My Collections" and "Guest Permissions" to "Share Collections"._ <br>      
+>+ The navigation menu uses terms that could be misguiding users to get to where they want to be, particularly "View Collections" and "Guest Permissions".<br><img src= "h2_menu.png" width=25% height=25%> <br>_Severity Rating: 1_<br>_Recommendation: Consider modifying navigation text to something more helpful towards users' existing habits. Perhaps changing "View Collections" to "My Collections" and "Guest Permissions" to "Share Collections"._ <br>      
                                                                                          
 ### 3. User control and freedom
 The website gives users a way to easily undo an unwanted action<br>
@@ -36,7 +36,7 @@ The website gives users a way to easily undo an unwanted action<br>
 >+ The site has a save or cancel option when editing any text, such as names, titles, or descriptions. This is helpful for the user who might not want to save the changes they made and allow them to keep the previous version of the text.<br><img src="h3_saveorcancel.png" width=25% height=25%><br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >**BAD**
->+ The only way to undo an action while editing the collection is through the undo button, the user can't use "ctrl+z" keys. Furthermore, the user can't redo their work, they can only undo it.<br><img src="h3_undobutton.png" width=25% height=25%><br>_Severity Rating: 2_<br>_Recommendation: Add a forward arrow to the side bar that users can click on to redo their work. Add functionality for users to use "ctrl+z" keys for undo and "ctrl+y" keys for redo._ <br> 
+>+ The only way to undo an action while editing the collection is through the undo button, the user can't use "ctrl+z" keys. Furthermore, the user can't redo their work, they can only undo it.<br><img src="h3_undobutton.png" width=15% height=15%><br>_Severity Rating: 2_<br>_Recommendation: Add a forward arrow to the side bar that users can click on to redo their work. Add functionality for users to use "ctrl+z" keys for undo and "ctrl+y" keys for redo._ <br> 
                                                                                                
 ### 4. Consistency and standards
 The website follows conventions followed by similar websites.<br>
@@ -78,8 +78,8 @@ The website allows processes to be tailored to all users from novice to expert.<
 The website only contains information that is relevant and is designed to highlight the essentials<br>  
  
 >**GOOD**
->+ The user can expand and collapse albums when viewing collections.<br><img src = "h8_expand-collapse.png" width=25% height=25%><br> 
->+ The editing page for a family member is very minimalistic and easy to navigate for the user. The page utilizes plus icons and simple vocabulary so the user can instantly find what part of the member profile they want to edit.<br><img src = "h8_familyeditpage.png" width=25% height=25%><br> 
+>+ The user can expand and collapse albums when viewing collections.<br><img src = "h8_expand-collapse.png" width=35% height=35%><br> 
+>+ The editing page for a family member is very minimalistic and easy to navigate for the user. The page utilizes plus icons and simple vocabulary so the user can instantly find what part of the member profile they want to edit.<br><img src = "h8_familyeditpage.png" width=35% height=35%><br> 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >**BAD**
 >+ The user has to scroll through a long introduction page on the landing page to get to the footer menu, which has options that can't be accessed at the navigation bar on the top of the page. This wordy and long introduction page can be frustrating for the user to find the "Contact Us" or "Privacy and Security" pages.<br>_Severity Rating: 3_<br>_Recommendation: Reduce the information on the introduction page to a simple blurb about the mission of the website and move any other information to the blog or FAQ page. This way it will make the landing page design less overwhelming and more minimalistic. The user would also be able to scroll down to the footer menu much faster._<br> 
@@ -97,8 +97,8 @@ The website provides clear error messages that state the problem and potential s
 The website has resources to help users understand how to complete tasks<br>
 
 >**GOOD**
->+ The website includes "Navigation Rules and Tips" tab in the collections editor that gives the user a concise list of tips of the functionalities of buttons in the collection view.<br><img src = "h10_navhelp.png" width=25% height=25%><img src = "h10_navtips.png" width=20% height=20%><br> 
->+ The website has a "Help and Support" page that can be accessed through the navigation menu at the top. It has a lot of frequently asked questions, a link to view help videos, and a search bar to find a certain topic.<br><img src = "h10_faq.png" width=20% height=20%><br> 
+>+ The website includes "Navigation Rules and Tips" tab in the collections editor that gives the user a concise list of tips of the functionalities of buttons in the collection view.<br><img src = "h10_navhelp.png" width=25% height=25%><img src = "h10_navtips.png" width=30% height=30%><br> 
+>+ The website has a "Help and Support" page that can be accessed through the navigation menu at the top. It has a lot of frequently asked questions, a link to view help videos, and a search bar to find a certain topic.<br><img src = "h10_faq.png" width=30% height=30%><br> 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >**BAD**
 >+ The "Help Videos" page does not have a video or videos dedicated to sharing collections and requesting to view a collection, which is inefficient for users who might not understand the written explanation and need a visual to understand how to share.<br> _Severity Rating: 2_<br>_Recommendation: Add a video or videos to the "Help Videos" page dedicated to tutorials on sharing and requesting to view collections._<br> 

@@ -43,7 +43,7 @@ The website follows conventions followed by similar websites.<br>
 
 >**GOOD**
 >+ Clicking on "Collectionaire" on the top left corner of the page takes the user back to the homepage.
->+ The options of the navigation bar is listed at the top of the screen. These options collapse into a hamburger menu when the window width is narrow.<br><img src="h4_hamburger.png" width=25% height=25%> <img src="collectionaire-screenshots/h4_fulllength.png" width=25% height=25%> <br>
+>+ The options of the navigation bar is listed at the top of the screen. These options collapse into a hamburger menu when the window width is narrow.<br><img src="collectionaire-screenshots/h4_hamburger.png" width=25% height=25%> <img src="collectionaire-screenshots/h4_fulllength.png" width=25% height=25%> <br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >**BAD**
 >+ The term "Exit" when hovering over the user's account is unconventional and difficult to understand.<br><img src="collectionaire-screenshots/h4_exit.png" width=25% height=25%><br>_Severity Rating: 2_<br>_Recommendation: Change the term "Exit" to "log Out" which follows standard account conventions._ <br> 

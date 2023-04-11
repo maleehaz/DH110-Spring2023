@@ -134,34 +134,37 @@ The website gives users a way to easily undo an unwanted action<br>
 >**GOOD**
 >+ After publishing a memory, the user can click on the drop-down menu that says "Action" and has the option to edit the memory, add it to a collection, delete the published memory, or move it into drafts.<br><img src="mystories-screenshots/h3_action.png" width=25% height=25%><br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
->**BAD** CONTINUE HERE
->+ The only way to undo an action while editing the collection is through the undo button, the user can't use "ctrl+z" keys. Furthermore, the user can't redo their work, they can only undo it.<br><img src="collectionaire-screenshots/h3_undobutton.png" width=15% height=15%><br>_Severity Rating: 2_<br>_Recommendation: Add a forward arrow to the side bar that users can click on to redo their work. Add functionality for users to use "ctrl+z" keys for undo and "ctrl+y" keys for redo._ <br> 
+>**BAD** 
+>+ The site's messaging feature doesn't allow the user to delete or edit their message after sending it. They only have the option to archive the conversation.<br><img src="mystories-screenshots/h3_msg.png" width=15% height=15%><br>_Severity Rating: 3_<br>_Recommendation: Add a delete message feature that deletes the message for both the user and the message recepient. Also add an edit message feature_ <br> 
                                                                                                
 ### 4. Consistency and standards
 The website follows conventions followed by similar websites.<br>
 
 >**GOOD**
->+ Clicking on "Collectionaire" on the top left corner of the page takes the user back to the homepage.
->+ The options of the navigation bar is listed at the top of the screen. These options collapse into a hamburger menu when the window width is narrow.<br><img src="collectionaire-screenshots/h4_hamburger.png" width=25% height=25%> <img src="collectionaire-screenshots/h4_fulllength.png" width=25% height=25%> <br>
+>+ The landing page on the site, for new users or users who haven't logged in yet, has a sign up or log in option being the first thing users see. This is a standard convention for websites, particularly social media, to notify users must have an account before they can interact on the site.<br><img src = "mystories-screenshots/h4_signin" width=25% height=25%><br>
+>+ The options of the navigation bar is listed at the side of the screen. These options collapse into a hamburger menu on the top of the screen when the window width is narrow.<br><img src="mystories-screenshots/h4_hamburgermenu.png" width=25% height=25%> <img src="mystories-screenshots/h4_fullscrnmenu.png" width=25% height=25%> <br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >**BAD**
->+ The term "Exit" when hovering over the user's account is unconventional and difficult to understand.<br><img src="collectionaire-screenshots/h4_exit.png" width=25% height=25%><br>_Severity Rating: 2_<br>_Recommendation: Change the term "Exit" to "log Out" which follows standard account conventions._ <br> 
+>+ The messaging feature doesn't have a group chat functionality which is usually the standard convention for any messaging applications or websites.<br><img src="mystories-screenshots/h4_exit.png" width=25% height=25%><br>_Severity Rating: 2_<br>_Recommendation: Add a messaging feature such that the user can form group chats._ <br> 
 
 ### 5. Error prevention
 The website prevents errors by reducing error-prone conditions or checking for them and notifying the user.<br>
 
 >**GOOD**
->+ The site autosaves the collection when navigating to a new page, and it doesn't allow the user to navigate to a new page before deciding to save or cancel the work the user has done.<br> 
+>+ On the "Add a Memory" page, if the user tries to navigate away from the page, they are prompted with a pop-up as to whether they are sure they want to go back without saving.<br><img src="mystories-screenshots/h5_saveprompt" width=25% height=25%><br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >**BAD**
->+ The text input box for descriptions of albums, people, or events does not have spelling or grammar check options.<br><img src="collectionaire-screenshots/h5_grammar.png" width=25% height=25%><br>_Severity Rating: 3_<br>_Recommendation: Add spell check to the text input boxes to prevent grammar errors._ <br> 
+>+ The text input box when creating a memory does not have spelling or grammar check options.<br> <img src="mystories-screenshots/h5_spellcheck.png" width=25% height=25%><br>_Severity Rating: 3_<br>_Recommendation: Add spell check to the text input boxes to prevent grammar errors._<br> 
                                                                               
 ### 6. Recognition rather than recall
 The website makes information needed to navigate the website visible or easily accessible.<br>
 
+>**GOOD**
+>+ The collection editing page for each family member gives users different options to add descriptions of the family member, linked albums, and a timeline. Such editing features include adding photos or text.<br><img src = "mystories-screenshots/h6_edit.png" width=25% height=25%><br>  IN PROGRESS
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >**BAD**
->+ The editing modes for a collection are inconsistent with each other. The tree editing mode has a button to navigate to the other mode that says “Exit Tree Editing Mode”, however the collection viewing mode has no button to navigate to tree editing mode. The user has to click on the three dots and “Edit Tree” to switch to tree editing mode.<br> <img src = "collectionaire-screenshots/h6_exitmode.png" width = 25% height = 25%><br>_Severity Rating: 3_<br>_Recommendation: When the user is in tree editing mode, instead of having a button that says “Exit Tree Edit Mode”, have a button that says “Switch to Collection Viewing Mode”. Apply this vice versa for collection viewing mode with a button that says “Switch to Tree Edit Mode”._<br>
->+ The "Guest Permissions" option on the navigation bar has sub-menu options within it that specify an action related to invites and requests. Some options sound too redundant and unneccesary which can be confusing for the user.<br><img src="collectionaire-screenshots/h6_guestperm.png" width=25% height=25%><br>_Severity Rating: 3_<br>_Recommendation: Consolidate the sub-menu options to reduce cognitive load on users. Perhaps condense "Invite Friends and Family to View or Edit" and "Invitations & Requests to View My Collection" to one sub-menu option "Invitations & Requests to Access My Collections"._<br>
+>+ The "Collaboration Invites" is a bit misleading. The page allows you to view memories that other users have given you collaboration permissions for, but it also gives prompts to create memories meant for collaboration which can be confusing. Some users could mistake these as a way to add collaborators to memories they've already created and it is not really clear as to what these prompts are for until the user clicks through them. <br> <img src = "mystories-screenshots/h6_collabinvites.png" width = 25% height = 25%><br>_Severity Rating: 3_<br>_Recommendation: Move the prompts to the "Add Memory" page as a drop-down menu for the memory subject. Instead of including prompts under the collaborator invites, include the user's posts with the option to "Add More Collaborators" which would add more functionality to the page and reduce the cognitive load placed on users._<br>
+>+ There is an obscure feature the site does not mention at all called "MindPops". The icon is a lightbulb icon was misleading and could translate to adjusting the brightness, or as a method to switch to a possible dark mode. The user would have to click through every button to learn about this feature.<br> <img src = "mystories-screenshots/h6_mindpops.png" width = 25% height = 25%><br>_Severity Rating: 3_<br>_Recommendation: Alter the way in which the user can access MindPops. Perhaps add a floating button located on the top right of the page, maybe shaped like a thought bubble, that clearly says "MindPops" in bold font so this feature is more noticeable to the user._<br> 
                                            
 ### 7. Flexibility and efficiency of use
 The website allows processes to be tailored to all users from novice to expert.<br>

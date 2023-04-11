@@ -146,8 +146,8 @@ _Overall Evaluation_: The website is very efficiently designed and pretty access
 The website clearly informs the user about its current status.<br>
 
 >**GOOD**
->+ The homepage of the user's profile shows a progress bar of how to get started on the website. This provides a good visual representation of  progress and guidance towards a user who may be unsure how to start uploading and sharing memories. <br><img src="mystories-screenshots/h1_progress.png" width=25% height=25%> 
->+ Before publishing a memory, the site notifies the user when they haven't filled out the month and year of the memory and prevents them from publishing. Highlighting the letters in birght red and with red astrixes help the user easily scroll through to find what they are missing. <br><img src="mystories-screenshots/h1_signin.png" width= 35% height= 35%> <br>
+>+ The homepage of the user's profile shows a progress bar of how to get started on the website. This provides a good visual representation of  progress and guidance towards a user who may be unsure how to start uploading and sharing memories. <br><img src="mystories-screenshots/h1_progress.png" width=35% height=35%> 
+>+ Before publishing a memory, the site notifies the user when they haven't filled out the month and year of the memory and prevents them from publishing. Highlighting the letters in birght red and with red astrixes help the user easily scroll through to find what they are missing. <br><img src="mystories-screenshots/h1_requiredfields.png" width= 35% height= 35%> <br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >**BAD**
 >+ When the user clicks on publish, the site does not prompt the user as to whether they are sure they want to publish the memory. This can be inconvenient for users who originally intended to save the memory as a draft and could have accidentally pressed the publish button instead.<br>_Severity Rating: 2_<br>_Recommendation: Add a pop-up after the user presses publish that asks "Are you sure you want to publish this memory?", prompting the user to answer yes or no to ensure the user actually intends to publish it._ <br>
@@ -168,23 +168,23 @@ The website gives users a way to easily undo an unwanted action<br>
 >+ After publishing a memory, the user can click on the drop-down menu that says "Action" and has the option to edit the memory, add it to a collection, delete the published memory, or move it into drafts.<br><img src="mystories-screenshots/h3_action.png" width=25% height=25%><br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >**BAD** 
->+ The site's messaging feature doesn't allow the user to delete or edit their message after sending it. They only have the option to archive the conversation.<br><img src="mystories-screenshots/h3_msg.png" width=15% height=15%><br>_Severity Rating: 3_<br>_Recommendation: Add a delete message feature that deletes the message for both the user and the message recepient. Also add an edit message feature_ <br> 
+>+ The site's messaging feature doesn't allow the user to delete or edit their message after sending it. They only have the option to archive the conversation.<br><img src="mystories-screenshots/h3_msg.png" width=25% height=25%><br>_Severity Rating: 3_<br>_Recommendation: Add a delete message feature that deletes the message for both the user and the message recepient. Also add an edit message feature_ <br> 
                                                                                                
 ### 4. Consistency and standards
 The website follows conventions followed by similar websites.<br>
 
 >**GOOD**
->+ The landing page on the site, for new users or users who haven't logged in yet, has a sign up or log in option being the first thing users see. This is a standard convention for websites, particularly social media, to notify users must have an account before they can interact on the site.<br><img src = "mystories-screenshots/h4_signin" width=25% height=25%><br>
+>+ The landing page on the site, for new users or users who haven't logged in yet, has a sign up or log in option being the first thing users see. This is a standard convention for websites, particularly social media, to notify users must have an account before they can interact on the site.<br><img src = "mystories-screenshots/h4_signin.png" width=25% height=25%><br>
 >+ The options of the navigation bar is listed at the side of the screen. These options collapse into a hamburger menu on the top of the screen when the window width is narrow.<br><img src="mystories-screenshots/h4_hamburgermenu.png" width=25% height=25%> <img src="mystories-screenshots/h4_fullscrnmenu.png" width=25% height=25%> <br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >**BAD**
->+ The messaging feature doesn't have a group chat functionality which is usually the standard convention for any messaging applications or websites.<br><img src="mystories-screenshots/h4_exit.png" width=25% height=25%><br>_Severity Rating: 2_<br>_Recommendation: Add a messaging feature such that the user can form group chats._ <br> 
+>+ The messaging feature doesn't have a group chat functionality which is usually the standard convention for any messaging applications or websites.<br>_Severity Rating: 2_<br>_Recommendation: Add a messaging feature such that the user can form group chats._ <br> 
 
 ### 5. Error prevention
 The website prevents errors by reducing error-prone conditions or checking for them and notifying the user.<br>
 
 >**GOOD**
->+ On the "Add a Memory" page, if the user tries to navigate away from the page, they are prompted with a pop-up as to whether they are sure they want to go back without saving.<br><img src="mystories-screenshots/h5_saveprompt" width=25% height=25%><br>
+>+ On the "Add a Memory" page, if the user tries to navigate away from the page, they are prompted with a pop-up as to whether they are sure they want to go back without saving.<br><img src="mystories-screenshots/h5_saveprompt.png" width=25% height=25%><br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >**BAD**
 >+ The text input box when creating a memory does not have spelling or grammar check options.<br> <img src="mystories-screenshots/h5_spellcheck.png" width=25% height=25%><br>_Severity Rating: 3_<br>_Recommendation: Add spell check to the text input boxes to prevent grammar errors._<br> 

@@ -2,12 +2,43 @@
 ## Tentative Title: Family Memory Archival 
 >When my parents immigrated to America from Pakistan, they were only able to bring a few pictures with them. Whenever we did travel back to Pakistan to visit my grandparents, we found most of the photos had been lost during the moving process or misplaced. Years worth of nostalgic stories my parents told me about their younger days had been lost and it was sad they weren't able to share these memories with me. Although memories today have become digitized and encapsulated in our phone camera rolls, there is still a struggle to fully preserve those old photos our parents took on film all in one place. I plan to contribute through this UX project in order to preserve precious family memories to be shared across future generations and viewed at the user's convenience, strengthening the connection between users and our loved ones. 
 
+### Jakob Nielson's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
+
+| Number | Heuristic | Description |
+|---|---|---|
+| 1 | Visibility of System Status | Users should always be informed about what is going on and should be given appropriate feedback to their actions |
+| 2 | Match Between System and the Real World | Use concepts and language that are familiar and logical to the user |
+| 3 | User Control and Freedom | Allow users to make mistakes; give them options to undo and redo tasks |
+| 4 | Consistency and Standards | Follow conventions and make sure design is consistent across the platform |
+| 5 | Error Prevention | Get rid of error-prone conditions and provide users with safety nets for high-cost errors |
+| 6 | Recognition Rather Than Recall | Minimize user's memory load by giving them suggestions and help in context |
+| 7 | Flexibility and Efficiency of Use | Provide multiple ways to perform a task to make the platform accessible to all users |
+| 8 | Aesthetic and Minimalist Design | Provide only relevant content and features |
+| 9 | Help Users Recognize, Diagnose, and Recover From Errors | Tell users what the problem is and provide suggestions to fix it |
+| 10 | Help and Documentation | Supply users with extra help to complete their tasks |
+
+
+### [Severity Ratings](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) for Usability Problems by Nielsen Norman Group
+
+The following rating scale can be used to evaluate the severity of usability issues:
+| Rating | Description |
+|---|---|
+| 0 | I don't agree that this is a usability problem at all |
+| 1 | Cosmetic problem only: need not be fixed unless extra time is available on project |
+| 2 | Minor usability problem: fixing this should be given low priority |
+| 3 | Major usability problem: important to fix, so should be given high priority |
+| 4 | Usability catastrophe: imperative to fix this before product can be released |
+
+Ratings are displayed for usability issues.
+
+_*NOTE: red dots on images indicate location of cursor_
+
 ## Competitor A: Collectionaire
 ![Collectionaire homepage](collectionaire-screenshot.png)
 View the full site here: [Collectionaire](https://collectionaire.com/)
 >Collectionaire is a website with a mission to document family history and archive immediate family's memories. To do this, users can make an account, go to "Create a new collection", and select a type of collection to make (Family Tree or Organization structure). From there, users can build a family tree or GEDCOM (genealogical data) file as a tree. The website has extensive information on what Connectionaire is, services that they provide, and video tutorials. 
 #### Heuristic Evaluation
-_Overall Evaluation_:
+_Overall Evaluation_: The website is pretty well-tailored to older users, with lots of information in the tutorials and FAQ section to remind them how to navigate the tree and collection editors. However, there are many issues for the navigation of the site, sometimes requiring too many steps for one action and some misleading vocabulary used in the navigation bar. Furthermore, the main function of the site, which is to build a collaborative family tree, is pretty difficult to navigate in terms of sharing the tree and granting permissions. The text editors also have weak word processing power and no error prevention measures. The site could also improve  by including more languages aside from English to make the site more accessible to those who don't speak English, and options to increase text size.
 <br>
 <br>
 ### 1. Visibility of system status
@@ -108,7 +139,9 @@ The website has resources to help users understand how to complete tasks<br>
 View the full site here: [My Stories Matter](https://www.mystoriesmatter.com/)
 >My Stories Matter is an organization with a mission to help seniors to write creative stories. To do this, users can make an account, go to their "Creativity Center", and select a prompt to follow. From there, users can type their story in a text box or upload a photo of a written response. The website also has extensive information on what TimeSlips is, services that they provide, resources, news, and ways to get involved with the organization.
 #### Heuristic Evaluation
-
+_Overall Evaluation_: The website is very efficiently designed and pretty accessible to older users in terms of functionality and simplicity. For users familiar with social media formats of popular apps such as Instagram and Facebook would find it easy to navigate this site. However, the site could use lots of improvements in user error prevention, more detailed help documentation and navigation, and community interactions. It's primary role as a memory-keeping journal also fails in the fact that the text editors also have weak word processing power and no spell check system. While the site has options to increase text size, there could also be improvements such as including more languages aside from English to make the site more accessible to those who don't speak English.
+<br>
+<br>
 ### 1. Visibility of system status
 The website clearly informs the user about its current status.<br>
 

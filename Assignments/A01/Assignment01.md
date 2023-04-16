@@ -1,4 +1,5 @@
-# Assignment 01: Heuristic Evaluation - Maleeha Zaman, DH110
+# DH110 Assignment 1: Heuristic Evaluation 
+# Maleeha Zaman
 ## Tentative Title: Family Memory Archival 
 >When my parents immigrated to America from Pakistan, they were only able to bring a few pictures with them. Whenever we did travel back to Pakistan to visit my grandparents, we found most of the photos had been lost during the moving process or misplaced. Years worth of nostalgic stories my parents told me about their younger days had been lost and it was sad they weren't able to share these memories with me. Although memories today have become digitized and encapsulated in our phone camera rolls, there is still a struggle to fully preserve those old photos our parents took on film all in one place. I plan to contribute through this UX project in order to preserve precious family memories to be shared across future generations and viewed at the user's convenience, strengthening the connection between users and their loved ones. 
 

@@ -32,8 +32,8 @@ Match between system and real world  | Marking a profile as a "person with a sto
 
 I couldn't meet with the user in person, so we conducted our meeting over **Zoom**. I used Zoom to record the session which video recorded the participant and myself, as well as the participant's laptop screen. I stopped the recording after thanking the participant for their time afterwards. Furthermore, I didn't have the survey side by side with the website open. It didn't feel intuitive to have the website being open in the narrow window because I felt it would inhibit the user's ability to navigate through it. Instead, I had the user have both the survey and the website open in separate tabs and have them switch between the two. 
 
-### [UT survey](https://docs.google.com/forms/d/e/1FAIpQLSdGx5VNXPt8TvSU7AYRqlrcwcpPTzsWS_3E9s9ytx8ari5w2w/viewform?usp=sharing)
-### [Pilot UT Video](https://drive.google.com/file/d/18N5rAV_XpNPqvsqT2HEChtTLJ1ZYEx7S/view?usp=share_link)
+### [Usability Testing Survey](https://docs.google.com/forms/d/e/1FAIpQLSdGx5VNXPt8TvSU7AYRqlrcwcpPTzsWS_3E9s9ytx8ari5w2w/viewform?usp=sharing)
+### [Pilot Usability Testing Video](https://drive.google.com/file/d/18N5rAV_XpNPqvsqT2HEChtTLJ1ZYEx7S/view?usp=share_link)
 
 ## Reflection
 

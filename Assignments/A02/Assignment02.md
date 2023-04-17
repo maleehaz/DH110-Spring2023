@@ -16,7 +16,7 @@ Heuristic Being Tested | Usability Problem  | Task Scenario  |
 :--- | :--- | :--- |
 Recognition rather than recall  | The user needs extra time to get used to the editing interface and its different modes, and the terms it uses (eg. trees, collections, chapters, linked albums).  | Add a profile to the family tree and create a linked album.  |  
 Consistency and standards | The sharing functionality does not use intuitive design and vocabulary that a user would understand based on their experiences with other products, making it difficult to share an album.  | Share an album with another user and grant them editing permissions.  |
-Match between system and real world  | Marking a profile as a "person with a story of significance" can be confusing to the user and they might not understand what this means. Accessing the collection that holds the "Family History" can also be a confusing term and difficult to locate. | Mark a profile as a "person with a story of significance" and find the family history collection. |
+Match between system and real world  | Marking a profile as a "person with a story of significance" and finding the "Family History" can be confusing to the user. It doesn't exactly speak the user's language and forces them to make a lot of inferences as to what they mean and how to navigate through these tasks. | Mark a profile as a "person with a story of significance" and find the family history collection. |
 
 
 **Process of the Usability Test:**

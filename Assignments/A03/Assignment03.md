@@ -1,24 +1,59 @@
-# Contextual Inquiry (CI)
+# DH110 Assignment 3: Contextual Inquiry
+# Maleeha Zaman
 
 In the process of learning about my target users, I found that many of my design ideas shifted. I thought it would be interesting to document the before and after of my design challenge and target user definition.
 
 ## Design Challenge 
 
-How might I design an accessible digital experience that shares the histories of Asian Americans and the current issues facing AAPI communities?
+#### What is the main activity your project would support the users in accomplishing?  
+* This project will support users in tracking books they read, as well as finding books they want to read. 
 
-My project hopes to support users in their search for narratives that relate to them and to find sources of information on their community. In particular, this project aims to provide Asian Americans with a sense of belonging and solidarity with a community whose history has helped shaped America. 
+#### What is the basic need involved for that activity? 
+* This activity fulfills the user’s esteem needs, more specifically esteem for oneself, 
+as reading books and keeping track of them gives them a feeling of accomplishment. 
+By finding books to read and keeping track of them, users will be able to feel accomplished that they have gained knowledge.
 
-Currently, the sources for historical narratives on Asian Americans is quite scattered online and offline. Because there are so many communities within Asian America, there are many separate websites which aim to serve these specific populations and their needs. There are few websites that consolidate this info in an easily digestible, engaging manner. In person, there are cultural organizations, including museums, that share a similar goal: to showcase the stories of Asian America to the public. However, museums are constrained by their physical location, and sometimes charge entrance fees. 
+#### What are the traditional/current solution(s) to satisfy the needs?
+* The traditional solution to keep track of books people read is a “book log.” 
+In a very basic book log, readers can write the title of the book and the author, 
+in addition to a personal rating of the book and page numbers. 
+There are products such as a book log journal (e.g. [Book Lover's Journal Reading Organizer](https://www.amazon.com/Book-Lovers-Journal-Reading-Organizer/dp/1441304827/ref=sr_1_3?dchild=1&keywords=book+log&qid=1587935107&sr=8-3)), 
+where readers can keep track of the books they have in one place. 
+* In terms of finding books, according to a research conducted by Pew Research Center in 2011, 
+64% of those ages 16 and older said they get book recommendations by word of mouth, from family members, 
+friends, and co-workers. Other sources include online bookstores or other websites, 
+recommendations from staffers in bookstores, or librarians. (["Where People Discover and Get Their Books"](https://www.pewresearch.org/internet/2012/06/22/part-2-where-people-discover-and-get-their-books/)) 
 
-I hope that by digitizing and consolidating these histories, I can make Asian American history more accessible.
+#### What are the limitations that possibly would be improved with (digital) technology?
+* Limitations in keeping track of books may be forgetting to write down each time a user finishes a book. 
+In addition, having something like a book log journal may be tiresome, especially if people who travel often 
+do not want to carry around extra items. Thus, digital technology can improve portability and make it easier 
+for users to remember to keep track. 
+* When finding books, people can find books from a wider social circle through technology that would 
+allow them to find a diverse range of genres and topics. 
+
 
 ## Target Users
 
-I want to create a website that empowers the public, including casual consumers and academic researchers, to understand the histories of Asian Americans. Because of its digital nature, users must have access to the internet.
+#### What are the characteristics of users?
+* Demographics: students (high school, college undergraduates), working adults, and people who are college-educated
+* Preferences: users read as a hobby, or want to read for personal development, 
+and thus would want to keep track of books they read and get book recommendations
+* Expertise: users would not need any particular level of expertise for this project
 
-While it is not intended to be a primary source for academic research, it may provide a broad and structured overview on issues in the Asian American literature.
+#### Where would the users do that activity?
+* Users can keep track of books anywhere; in the traditional method, as long as they have a piece of 
+paper and pen, they can write down what book they read. 
+In a digital method, users can log what they read anywhere at anytime, as long as they have their device.
+* When finding books to read, users may do that activity in many different places—a library or a bookstore, 
+or even in daily conversations with their family, friends, or co-workers, or online in an online book recommendation.  
 
-Users would be able to access this collection from anywhere there is internet. On the site, they could navigate chronologically to view events in Asian American history.
+#### What would the users do to complete that activity?
+* The goal of the users would be to log a book they read. To do that, they would either physically write down 
+information about that book, or type it in a device to record information. To find a book to read, users may search online, 
+go to a library or bookstore to browse books on their own or ask the staff, or ask their friends or family 
+about book recommendations.
+
 
 ## Research Methods
 

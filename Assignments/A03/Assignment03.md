@@ -3,17 +3,15 @@
 
 In the process of learning about my target users, I found that many of my design ideas shifted. I thought it would be interesting to document the before and after of my design challenge and target user definition.
 
-## Design Challenge 
+## Design Challenge IN PROGRESS
 
 #### What is the main activity your project would support the users in accomplishing?  
-* This project will support users in tracking books they read, as well as finding books they want to read. 
+* This project will support users in preserving their family memories, where they can collaborate with other family members to organize their photos, videos, and stories all on one interface. By being able to easily access and add on to their family archive, users will be able to revisit a sense of nostalgia and pass on these moments as objects of rememberance and family identity to their future generations. 
 
-#### What is the basic need involved for that activity? 
-* This activity fulfills the user’s esteem needs, more specifically esteem for oneself, 
-as reading books and keeping track of them gives them a feeling of accomplishment. 
-By finding books to read and keeping track of them, users will be able to feel accomplished that they have gained knowledge.
+#### What is the basic need involved for that activity?  
+* This activity fulfills the user’s self-esteem and belonging because it helps them engage more actively with their family history. Memories provide comfort, warmth, and a feeling of belonging. Users who engage with their family memories by keeping a record help preserve their sense of identity and boost self-esteem. Furthermore, it provides a chance to connect more deeply with other members of the family by collaboratively working on an album. 
 
-#### What are the traditional/current solution(s) to satisfy the needs?
+#### What are the traditional/current solution(s) to satisfy the needs? IN PROGRESS
 * The traditional solution to keep track of books people read is a “book log.” 
 In a very basic book log, readers can write the title of the book and the author, 
 in addition to a personal rating of the book and page numbers. 
@@ -24,7 +22,7 @@ where readers can keep track of the books they have in one place.
 friends, and co-workers. Other sources include online bookstores or other websites, 
 recommendations from staffers in bookstores, or librarians. (["Where People Discover and Get Their Books"](https://www.pewresearch.org/internet/2012/06/22/part-2-where-people-discover-and-get-their-books/)) 
 
-#### What are the limitations that possibly would be improved with (digital) technology?
+#### What are the limitations that possibly would be improved with (digital) technology? IN PROGRESS
 * Limitations in keeping track of books may be forgetting to write down each time a user finishes a book. 
 In addition, having something like a book log journal may be tiresome, especially if people who travel often 
 do not want to carry around extra items. Thus, digital technology can improve portability and make it easier 
@@ -36,19 +34,15 @@ allow them to find a diverse range of genres and topics.
 ## Target Users
 
 #### What are the characteristics of users?
-* Demographics: students (high school, college undergraduates), working adults, and people who are college-educated
-* Preferences: users read as a hobby, or want to read for personal development, 
-and thus would want to keep track of books they read and get book recommendations
-* Expertise: users would not need any particular level of expertise for this project
+* Demographics: Parents, grandparents, seniors, young and older adults
+* Preferences: Users have kids or grandkids and would like to keep track of their memories as they grow up. Users who are adults and would like to keep track of the time they spend with their parents or older loved ones in general. 
+* Expertise: Users would not need any particular level of expertise for this project.
 
-#### Where would the users do that activity?
-* Users can keep track of books anywhere; in the traditional method, as long as they have a piece of 
-paper and pen, they can write down what book they read. 
-In a digital method, users can log what they read anywhere at anytime, as long as they have their device.
-* When finding books to read, users may do that activity in many different places—a library or a bookstore, 
-or even in daily conversations with their family, friends, or co-workers, or online in an online book recommendation.  
+#### Where would the users do that activity? 
+* Users can keep track of memories anywhere. The traditional method is to keep a physical family album, scrapbook, or journal of some kind which holds story entries and physical photos. The digital method is common for mobile users such that they can take a photo and can post it to social media (eg. Instagram, Facebook) or just keep it in their phone camera rolls. 
+* When finding old famly memories, users may consult their family members if they have any old photo albums or stories to share. Mobile users are more likely to ask other family members to send pictures from a recent family function, or view their social medias to see the pictures.
 
-#### What would the users do to complete that activity?
+#### What would the users do to complete that activity? IN PROGRESS, refer to question above
 * The goal of the users would be to log a book they read. To do that, they would either physically write down 
 information about that book, or type it in a device to record information. To find a book to read, users may search online, 
 go to a library or bookstore to browse books on their own or ask the staff, or ask their friends or family 

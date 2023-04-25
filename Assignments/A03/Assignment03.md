@@ -32,7 +32,7 @@ During this process, I found many of my design ideas changed after inquiring mor
 * Users can keep track of memories anywhere. The traditional method is to keep a physical family album, scrapbook, or journal of some kind which holds story entries and physical photos. The digital method is common for mobile users such that they can take a photo and can post it to social media (eg. Instagram, Facebook) or just keep it in their phone camera rolls. 
 * When finding old family memories, users may consult their family members if they have any old photo albums or stories to share. Mobile users are more likely to ask other family members to send pictures from a recent family function, or view their social medias to see the pictures.
 
-#### What would the users do to complete that activity? IN PROGRESS, refer to question above
+#### What would the users do to complete that activity? 
 * For the traditional method, the goal of the user would be to store their photos in one place and keep them organized. They might get film developed or access their phone to print their photos out. They would buy an album or scrapbook, then paste the photos and decorate it as they please. 
 * For the digital method, the goal of the user would be to add their photos to an online cloud and have it organized in an easily readable and navigable way. They would add their photos and videos to it, and maybe include captions. These albums can also include timestamps and can be organized chronologically for a better viewing experience. 
 

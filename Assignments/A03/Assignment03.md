@@ -64,7 +64,7 @@ View the full transcript [here](https://github.com/maleehaz/DH110-Spring2023/blo
 ## Insights from the interview
 
 :one: The user likes to record physical personal keepsakes alongside photos they have to remind them of a memory.
-> I also used to journal like over the summer...I would put receipts of like special days or train tickets.take like train tickets. I'm kind of a hoarder where I keep cute wrapping and tape it into my journal alongside pictures.
+> I also used to journal like over the summer...I would put receipts of like special days or train tickets. I'm kind of a hoarder where I keep cute wrapping and tape it into my journal alongside pictures.
 
 :two: Timestamps don't seem necessary to manually input when recording memories, especially when it is not automatically done by the interface itself.
 > I think I don't include timestamps on physical photos because on digital photos the date's already there. So it's just like if I take a photo, and I'm out with friends, I vaguely remembered "Oh it happened this day". Its not my first thought to include dates with my photos. When my mom develops my film photos, because my mom lived during the 80s and she was like my age during that time, and so they didn't have digital photos, so she is used to her method of writing down the dates.

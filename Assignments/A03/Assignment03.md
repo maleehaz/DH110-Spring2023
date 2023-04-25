@@ -54,7 +54,7 @@ The session consisted of the following sections:
  * These were directive. I sought to understand why the user instinctively chose to arrange memories the way they did, and what digital applications they leaned towards in terms of saving photos and videos.
 
 ### Interview Video File
-You can find the video file of the interview [here](https://ucla.box.com/s/z930enkts8r8oeehol23fidaz7tymfmp)
+You can find the video file of the interview [here](https://drive.google.com/file/d/1MJfBAxt7NvHG42PiX_jUgsLb-1RwWRGf/view?usp=sharing)
 
 ### Contextual Inquiry Guide & Transcript
 Before conducting the interview, I outlined some questions in [this guide](https://github.com/yinyinwen/DH150-chuyin/blob/master/images/Contextual%20Inquiry%20Script%20for%20DH%20150.pdf).
@@ -63,17 +63,18 @@ View the full transcript [here](https://github.com/yinyinwen/DH150-chuyin/blob/m
 
 ## Insights from the interview
 
-:one: The user feels that there is a disconnect between what goes on in academia versus in the community
-> I do think that Asian American Studies is very centered in academia. And sometimes the professors...elaborate these very difficult terminologies and context and it's very hard to like relate it back to community
+:one: The user likes to record physical personal keepsakes alongside photos they have to remind them of a memory.
+> I also used to journal like over the summer...I would put receipts of like special days or train tickets.take like train tickets. I'm kind of a hoarder where I keep cute wrapping and tape it into my journal alongside pictures.
 
-:two: In the initial stages of learning about a topic, the user prefers brief, well-organized sources of information
-> So I definitely prefer, like, easier to consume media. And I think PBS does a great job of catering to the larger population... They have resources for both really young kids and older adults, and PBS is like one of my go-tos. I don't like Wikipedia as much because they just put a lot of information and it's hard to siphon out what's really relevant
+:two: Timestamps don't seem necessary to manually input when recording memories, especially when it is not automatically done by the interface itself.
+> I think I don't include timestamps on physical photos because on digital photos the date's already there. So it's just like if I take a photo, and I'm out with friends, I vaguely remembered "Oh it happened this day". Its not my first thought to include dates with my photos. When my mom develops my film photos, because my mom lived during the 80s and she was like my age during that time, and so they didn't have digital photos, so she is used to her method of writing down the dates.
 
-:three: When skimming for relevant sources, the user relies on the tags accompanying each search result
-> Okay, so this one looks really good "Public health and the mapping of Chinatown", right? Because it has all the words I kinda like want: "epidemics", "living conditions" 
+:three: Organizing family members by group rather than by each individual member helps the user to map out their families more conveniently and access their photos based on their interest.
+> I would prefer to group my grandparents together in an album, because I don't take many photos of my grandparents. I think it would just be tedious if I had like one label like Grandpa, and I have like 2 photos in it. And then, Grandma and I had like 4 photos, right? So that would just help. 
 
-:four: A clear timeline of events (with brief descriptions) helps the user map out their time period of interest
-> So the four ordinances I'm kind of focusing on for my paper is Cubic Air ordinance, Sidewalk ordinance, Queue ordinance, and Laundry ordinance. I like how they're chronologically listed out so that I can know when and where that goes from.
+:four: While sketching out how they would organize their dad's album, the user names specific parts of her dad's life and categorizes them into smaller sets of photos.
+> I would probably include my dad's age and the year he was born, and where he was born, and some photos of him. And then, maybe like also photos over here during the time he grew up which was during the 50s and 60s. I would also include photos of him from his like teenage years, when he played guitar, when he was married to my mom, and him at his job.
+
 
 ## Reflection
 Initially, I came into the interview with an idea to design a website to organize family photos, videos, and stories into a family tree. I envisioned a product that I would personally apply to my own family. However, this contextual inquiry allowed me to empathize with users of all backgrounds and redefine what family means to different people, and how users perceive a memory. 

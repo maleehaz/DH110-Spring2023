@@ -1,7 +1,7 @@
 # DH110 Assignment 3: Contextual Inquiry
 # Maleeha Zaman
 
-In the process of learning about my target users, I found that many of my design ideas shifted. I thought it would be interesting to document the before and after of my design challenge and target a user's definition of a family memory.
+During this process, I found many of my design ideas changed after inquiring more about my target users. I thought it would be interesting to document the before and after of my design challenge and target a user's definition of a family memory.
 
 ## Design Challenge 
 
@@ -51,7 +51,7 @@ The session consisted of the following sections:
  * I often asked follow-up questions about their sketches, and went a bit off-script, to gauge why they chose to arrange or include something.
   
  **3.	Follow-up questions**
- * These were directive. I sought to understand why the user instinctively chose to arrange memories the way they did, and what digital applications they leaned towards in terms of saving photos and videos.
+ * I directly asked the user questions to understand why the user instinctively chose to arrange memories the way they did, and what digital applications they leaned towards in terms of saving photos and videos, and their personal experiences.
 
 ### Interview Video File
 You can find the video file of the interview [here](https://drive.google.com/file/d/1MJfBAxt7NvHG42PiX_jUgsLb-1RwWRGf/view?usp=sharing) and the sketches the user completed during the activities [here](https://github.com/maleehaz/DH110-Spring2023/blob/main/Assignments/A03/DH110%20A03.pdf).

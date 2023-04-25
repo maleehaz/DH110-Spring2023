@@ -1,9 +1,9 @@
 # DH110 Assignment 3: Contextual Inquiry
 # Maleeha Zaman
 
-In the process of learning about my target users, I found that many of my design ideas shifted. I thought it would be interesting to document the before and after of my design challenge and target user definition.
+In the process of learning about my target users, I found that many of my design ideas shifted. I thought it would be interesting to document the before and after of my design challenge and target a user's definition of a family "memory".
 
-## Design Challenge IN PROGRESS
+## Design Challenge 
 
 #### What is the main activity your project would support the users in accomplishing?  
 * This project will support users in preserving their family memories, where they can collaborate with other family members to organize their photos, videos, and stories all on one interface. By being able to easily access and add on to their family archive, users will be able to revisit a sense of nostalgia and pass on these moments as objects of rememberance and family identity to their future generations. 
@@ -33,35 +33,33 @@ In the process of learning about my target users, I found that many of my design
 * When finding old family memories, users may consult their family members if they have any old photo albums or stories to share. Mobile users are more likely to ask other family members to send pictures from a recent family function, or view their social medias to see the pictures.
 
 #### What would the users do to complete that activity? IN PROGRESS, refer to question above
-* IN PROGRESS
-* The goal of the user would be to add their photos to a collaborative family album and have it organized in an easily readable and navigable way. To do that, they would be able to add collaborators and family profiles to a tree. They would search for their profile and make an album, then add their photos, vidoes, and stories to it. These albums can also include timestamps and can be organized chronologically for a better viewing experience. 
+* For the traditional method, the goal of the user would be to store their photos in one place and keep them organized. They might get film developed or access their phone to print their photos out. They would buy an album or scrapbook, then paste the photos and decorate it as they please. 
+* For the digital method, the goal of the user would be to add their photos to an online cloud and have it organized in an easily readable and navigable way. They would add their photos and videos to it, and maybe include captions. These albums can also include timestamps and can be organized chronologically for a better viewing experience. 
 
 
 ## Research Methods
 
-To gain a better sense of how I could create a website that is useful to different types of users, I conducted contextual inquiry. Due to current circumstances, this session had to be conducted remotely over Zoom. 
+To gain a better sense of how I could create a website that is useful to different types of users, I conducted contextual inquiry. Due to current circumstances, this session had to be conducted over Zoom, and the participant felt more comfortable talking off-camera. Only the screen and the audio was recorded during this session. 
 
 The session consisted of the following sections:
 
  **1.	Background questions**
- * I wanted to learn about what a typical day looks like for the target users, and how my website could support those daily tasks. I also asked about any enjoyable and frustrating experiences they had that were not necessarily related to searching Asian American history.
+ * I wanted to learn about what a typical day looks like for the target users, and build rapport before progressing with the interview. I wanted to know what family memories meant to them and how my website/app could support their needs.
   
  **2.	Observation**
- * I allowed the user to search up a topic that they wished to learn more about and asked that they think aloud.
- * When users refined their search or chose certain results, I asked follow-up questions to clarify their thought process.
+ * I allowed the user to sketch how they would organize their family tree and what a typical family album would look to them. 
+ * I often asked follow-up questions about their sketches, and went a bit off-script, to gauge why they chose to arrange or include something.
   
  **3.	Follow-up questions**
- * These were directive. I sought to understand alternative sources of information that users tapped into, besides the one shown in the observation period.
+ * These were directive. I sought to understand why the user instinctively chose to arrange memories the way they did, and what digital applications they leaned towards in terms of saving photos and videos.
 
-### Interview Audio File
-You can find the audio file of the interview [here](https://ucla.box.com/s/z930enkts8r8oeehol23fidaz7tymfmp)
+### Interview Video File
+You can find the video file of the interview [here](https://ucla.box.com/s/z930enkts8r8oeehol23fidaz7tymfmp)
 
 ### Contextual Inquiry Guide & Transcript
 Before conducting the interview, I outlined some questions in [this guide](https://github.com/yinyinwen/DH150-chuyin/blob/master/images/Contextual%20Inquiry%20Script%20for%20DH%20150.pdf).
 
 View the full transcript [here](https://github.com/yinyinwen/DH150-chuyin/blob/master/images/DH%20150%20Contextual%20Inquiry%20Transcript.pdf).
-
-Find my observation notes [here](https://github.com/yinyinwen/DH150-chuyin/blob/master/images/Contextual%20Inquiry%20Field%20Notes.pdf).
 
 ## Insights from the interview
 
@@ -78,10 +76,9 @@ Find my observation notes [here](https://github.com/yinyinwen/DH150-chuyin/blob/
 > So the four ordinances I'm kind of focusing on for my paper is Cubic Air ordinance, Sidewalk ordinance, Queue ordinance, and Laundry ordinance. I like how they're chronologically listed out so that I can know when and where that goes from.
 
 ## Reflection
-Coming into the interview, I thought I had a fairly clear idea of what I wanted to design and who I wanted to design it for. I had envisioned a product that I would have loved to have, especially before coming to college. However, this contextual inquiry allowed me to step out of my own experience and empathize with the user's. 
+Initially, I came into the interview with an idea to design a website to organize family photos, videos, and stories into a family tree. I envisioned a product that I would personally apply to my own family. However, this contextual inquiry allowed me to empathize with users of all backgrounds and redefine what family means to different people, and how users perceive a memory. 
 
-This interviewee was very in touch with the Asian American cultural and political space, and she showed me how a more experienced user might engage with my product. She uses a variety of different sources to find information on Asian American narratives before, giving me insight on academic and casual sources. One memorable insight from this interview was that she felt that Asian American Studies is very centered in academia, but she still prefers easy-to-consume media when searching for sources. 
-
+The interviewee was only really close to a few of her family members, being mostly closely with her dad because her parents are divorced. She showed me how a user who doesn't have a conventional nuclear family might perceive the product and offered a variety of insights on how she would interact with a family archive. One memorable insight is how she felt her dad would be more inclined to store memories in the form of her lineage because they have Native American roots in addition to her being Salvadorian. She said she does feel more inclined to keep family memories of the family circle whom she considers the most important in her life, although the idea of seeing her whole family tree sounds interesting. My interviewee also mentions the personability and warmth that comes with physical items, emphasizing how she liked to scrapbook receipts, movie tickets, or candy wrappers into her albums. I would like to incorporate personal items into my design in addition to photos, videos, and text, as well as trying to enforce a less strict format for a family collection (make it more customizable).
 In terms of logistics, I found that creating a script for the Contextual Inquiry was quite difficult because it is impossible to know what to expect when immersing oneself in someone else's experience. I had to keep my questions loose, yet still somewhat focused. If I were to do this again, I would definitely try to ask fewer background questions and spend more time observing the user's activities. I would also follow-up more finely with the user's satisfaction and frustrations about their activities.
 
 Talking to this user was a humbling experience, and it taught me that speaking with users directly is essential to understanding them and designing for them.

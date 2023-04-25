@@ -1,7 +1,7 @@
 # DH110 Assignment 3: Contextual Inquiry
 # Maleeha Zaman
 
-In the process of learning about my target users, I found that many of my design ideas shifted. I thought it would be interesting to document the before and after of my design challenge and target a user's definition of a family "memory".
+In the process of learning about my target users, I found that many of my design ideas shifted. I thought it would be interesting to document the before and after of my design challenge and target a user's definition of a family memory.
 
 ## Design Challenge 
 
@@ -54,12 +54,12 @@ The session consisted of the following sections:
  * These were directive. I sought to understand why the user instinctively chose to arrange memories the way they did, and what digital applications they leaned towards in terms of saving photos and videos.
 
 ### Interview Video File
-You can find the video file of the interview [here](https://drive.google.com/file/d/1MJfBAxt7NvHG42PiX_jUgsLb-1RwWRGf/view?usp=sharing)
+You can find the video file of the interview [here](https://drive.google.com/file/d/1MJfBAxt7NvHG42PiX_jUgsLb-1RwWRGf/view?usp=sharing) and the sketches the user completed during the activities [here](https://github.com/maleehaz/DH110-Spring2023/blob/main/Assignments/A03/DH110%20A03.pdf).
 
 ### Contextual Inquiry Guide & Transcript
-Before conducting the interview, I outlined some questions in [this guide](https://github.com/yinyinwen/DH150-chuyin/blob/master/images/Contextual%20Inquiry%20Script%20for%20DH%20150.pdf).
+Before conducting the interview, I outlined some questions in [this guide](https://github.com/maleehaz/DH110-Spring2023/blob/main/Assignments/A03/Contextual%20Inquiry%20Script%20DH110.pdf).
 
-View the full transcript [here](https://github.com/yinyinwen/DH150-chuyin/blob/master/images/DH%20150%20Contextual%20Inquiry%20Transcript.pdf).
+View the full transcript [here](https://github.com/maleehaz/DH110-Spring2023/blob/main/Assignments/A03/a03%20audio%20transcription.pdf).
 
 ## Insights from the interview
 

@@ -27,3 +27,5 @@ UX storytelling helps researchers stay in touch with their users and is a great 
 > Lorem ipsum
 #### How Ana is using this product
 > Lorem ipsum
+## Reflection
+Lorem ipsum

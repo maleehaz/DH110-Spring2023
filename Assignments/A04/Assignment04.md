@@ -8,8 +8,8 @@ UX storytelling helps researchers stay in touch with their users and is a great 
 
 ## Personas & Empathy Maps
 ### Samra Khan—loving mother
-![Samra Persona](Assignments/A04/samra-persona.pdf)
-![Samra Empathy Map](Assignments/A04/samra-empathy-map.pdf)
+![Samra Persona](Assignments/A04/samra-persona.png)
+![Samra Empathy Map](Assignments/A04/samra-empathy.png)
 ### Debbie White—aspiring family archivist
 ### Ana Ortega—sentimental and creative daughter
 
@@ -20,7 +20,7 @@ UX storytelling helps researchers stay in touch with their users and is a great 
 #### How Samra is using this product
 > Since it was recently her daughter's first time dressing up for Halloween at school, Samra decides to consolidate all her daughter's firsts and wants to make an album. Samra makes a profile for her daughter and creates a new album called "My Lovely Mina". She selects the photos she wants to save from her phone and organizes them into different stories such as "Mina's First Day of School", "Mina's Halloween", and "Mina's Birthdays". Samra can also add little blurbs alongside her photos, such as "When Mina made her first friend at school". After sorting through the photos, she can search for specific ones by typing a keyword, such as "First Day" or "friend" to find photos related to Mina's first day at school.  
 #### Samra's Journey Map
-![Samra Journey](Assignments/A04/samra-journey.pdf)
+![Samra Journey](Assignments/A04/samra-journey.png)
 ### 2. Debbie
 #### Why Debbie is using this product
 > Lorem ipsum

@@ -8,6 +8,8 @@ UX storytelling helps researchers stay in touch with their users and is a great 
 ![Samra Persona](samra-persona.png)
 ![Samra Empathy Map](samra-empathy.png)
 ### Debbie White—aspiring family archivist
+![Debbie Persona](debbie-persona.png)
+![Debbie Empathy Map](debbie-empathy.png)
 ### Ana Ortega—sentimental and creative daughter
 
 ## Scenarios & Journey Maps
@@ -19,6 +21,7 @@ UX storytelling helps researchers stay in touch with their users and is a great 
 #### Samra's Journey Map
 ![Samra Journey](samra-journey.png)
 ### 2. Debbie
+![Debbie Persona](debbie-journey-map.png)
 #### Why Debbie is using this product
 > Lorem ipsum
 #### How Debbie is using this product

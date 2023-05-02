@@ -8,8 +8,8 @@ UX storytelling helps researchers stay in touch with their users and is a great 
 ![Samra Persona](samra-persona.png)
 ![Samra Empathy Map](samra-empathy.png)
 ### Debbie White—aspiring family archivist
-![Debbie Persona](debbie-persona.png)
-![Debbie Empathy Map](debbie-empathy.png)
+![Debbie Persona](debbie-persona-map.png)
+![Debbie Empathy Map](debbie-empathy-map.png)
 ### Ana Ortega—sentimental and creative daughter
 
 ## Scenarios & Journey Maps
@@ -26,7 +26,7 @@ UX storytelling helps researchers stay in touch with their users and is a great 
 #### How Debbie is using this product
 > Debbie creates a profile for herself using her email and full name. Then she goes to create a new album, where she sees a big button that reads "Scan Items" and bold letters. Debbie then scans some photos and old train tickets using the phone camera one by one, and is able to sort them as she scans, and continue scanning until she can hit the "Stop Scanning" button that takes her back to the album page. In addition to scanning, Debbie wants to take pictures of the pocket watch her late father gave her and hairpins from her mother. To do this, she clicks on "Add Family Treasures", where she can take or upload a pictures/videos of these items and write descriptions for them. The album automatically saves periodically, and has an indication in the corner that says it has been saved, so Debbie doesn't need to worry about losing her photos or progress. At the top right of the album icon, there is a button that says "Share" that Debbie can click on which navigates her to her messages where she can add the contacts she wants to share the album with and press send. The message that shares the album says "Take a look at this album and leave a comment!" followed by a hyperlink.
 #### Debbie's Journey Map
-![Debbie Persona](debbie-journey-map.png)
+![Debbie Persona](debbie-journey.png)
 
 ## Reflection
 Lorem ipsum

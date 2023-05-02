@@ -24,7 +24,7 @@ UX storytelling helps researchers stay in touch with their users and is a great 
 #### How Samra is using this product
 > Since it was recently her daughter's first time dressing up for Halloween at school, Samra decides to consolidate all her daughter's firsts and wants to make an album. Samra makes a profile for her daughter and creates a new album called "My Lovely Mina". She selects the photos she wants to use from her phone by clicking the "Add Photos" button and organizes them into different stories such as "Mina's First Day of School", "Mina's Halloween", and "Mina's Birthdays". Samra doesn't have to include timestamps, since the app reads in the timestamp from the camera roll and automatically inputs one for the user, although Samra may choose to edit those timestamps if she chooses. Samra can also add little blurbs alongside her photos, such as "When Mina made her first friend at school". After sorting through the photos, she can search for specific ones by typing a keyword, such as "First Day" or "friend" to find photos related to Mina's first day at school. She can also filter the search using timestamps, recently added, and by most viewed. 
 #### Samra's Journey Map
-![Samra Journey](samra-journey.png)
+![Samra Journey](samra-journey-map.png)
 
 ### 2. Debbie
 #### Why Debbie is using this product

@@ -17,12 +17,42 @@ To evaluate the logic and flow of the screens of the app, I created low-fidelity
   * Samra, a full-time nurse and mother who wants to log every memory she has with her daughter
   * Debbie, an aspiring family archivist who has boxes of old photos and wants to share them with her distant grandchildren
 ### Wireflow
+![Lo-Fi Prototype](wireflow.jpg)
 ### Testing the Prototype
 #### Task 1: Play a timelapse of a member of the family tree
+Completed✔️
+* The participant was initially confused as to what was meant by "timelapse", had to give clarification that it was a video/slideshow of a family member's photos between a certain range of years. 
+* Although they completed the task relatively smoothly after asking for clarification, the participant said they wouldn't have known to press the play button to start a timelapse if the wireflow arrow wasn't there. They suggested for first-time use, some sort of overlay tutorial would help them understand what each button meant or if the button clearly said "Timelapse" rather than the play button. 
+* The task was completed relatively smoothly, but the participant noted it was unclear whether the transitions for the timelapse were manual or automatic because of the slideshow buttons. Although the wireflow shows that the user selected automatic, this was not reflected on the timelapse screen. 
 ![Task 1](wf_task1.jpg)
+
 #### Task 2: Invite a family member, who also has an account, to access and edit the family archive
+Completed✔️
+* The participant completed the task pretty quickly with no issues.
+* They suggested to incorporate user IDs/usernames since multiple people could have the same first and last names for their profile. They further added more aesthetic suggestions to display the profile pictures of the user they plan to invite and noted that it would be nice.
+* The participant said the term "Invite/Join" was misleading for the page title, and didn't know it was to invite members to the archive until they opened the page. They suggest changing the name to something more informative and clear.  
 ![Task 2](wf_task2.jpg)
+
 #### Task 3: Add a member to the family tree
+Completed✔️
+* Task took slightly more time than the other two, but was completed smoothly with little to no issues.
+* The participant took a while to choose which plus sign to select. They ended up choosing to add the family member through the plus sign that was on the tree branch rather than the plus signs placed on the corner of each profile.
+* They suggested that it would be much easier and quicker for them if the page only had one plus sign, and they could choose from a list of different relations, especially if they planned on adding some sort of distant relative. 
+* They noted that being able to add the profile picture on the "Add Member" page would be nice as well. 
+* The participant took notice of the back buttons, and said the arrow was a bit too vague sometimes, and would prefer a more clear navigation indicator such as "Return to family homepage". 
 ![Task 3](wf_task3.jpg)
+
 #### Task 4: Find an archive entry and upload a scan to the entry
+Completed✔️
+* Navigation went smoothly overall
+* The participant enjoyed the timeline format and liked the idea of being able to scroll through an archive and experience it in a chronological order. 
+* They suggested to make the entry "expandable", such as adding three dots so the user can view the journal entry associated with the entry. 
+* The participant asked if all profiles who have viewing and editing permissions for the tree can see all the archives, to which I replied yes. They further suggested that it would be helpful to add a version/edit history of the entries so if a family member mistakenly edits one of the archives, the user can restore a previous version. 
+* For the scan feature, they questioned whether there was an option to scan multiple things at once. 
+* The participant hoped for a similar to edit functionality to the family tree where the user had to click "Edit Tree" to navigate to a page where they can make edits. The participant didn't like seeing the pencils next to each entry immediately. They worried that a family member might accidentally edit the entry when they were just trying to view it. 
 ![Task 4](wf_task4.jpg)
+
+### Reflection
+Since I personally designed the wireframes, I couldn't gauge how easy to navigate the low-fidelity prototype would be for other users since I already know the flows by heart myself. After watching my participant test my prototype, it made me realize I put more work into designing a particular feature but not enough work into designing a more recognizable and easy to navigate interface. I realized some types of vocabulary I used within my information architecture tended to be a bit more confusing and that area could use a lot more revision to be much simpler and comprehendable to new users. This experience felt very valuable because I also gained a better understanding of the user's logical flow when it came to the prototypes and watch them actively experience my app in its earliest stages. 
+
+Based on the participant's perception of the timelapse feature, it seems that most users would not actually find this feature and that it feels hidden within the design. Adding some sort of additional help documentation, or maybe making the timelapse feature more visible could be helpful for users to encounter it. The edit tree function seemed to be a bit overwhelming for the participant, especially with the number of plus buttons on the screen. It appears there was quite a bit of cognitive load required to choose which plus button to choose for the participant. To reduce this cognitive load, creating a single plus button with a dropdown of relations, and  a place to select the user the new member being added is related to, would make the edit tree more simple to navigate for users. For the invite feature, my participant was able to navigate the feature pretty smoothly, I would only change the pagename "Invite/Join" to something more clear such as "Add Collaborators". 

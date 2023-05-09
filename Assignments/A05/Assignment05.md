@@ -6,6 +6,7 @@ I want to create an app that allows people to create an archive of their family 
 2. Build and add on to the family archive with entries by uploading or scanning media directly, and writing journal entries
 4. View a timelapse of each family member through their profile
 5. Invite other family members to be able to view and edit the archive
+
 To evaluate the logic and flow of the screens of the app, I created low-fidelity prototypes to test these features to identify any problems early on and continue to revise my design.
 
 ## Research that Informed Design of the Low-Fi Prototype

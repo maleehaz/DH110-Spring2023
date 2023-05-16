@@ -10,7 +10,7 @@ The purpose of interface design is to convert my low-fidelity wireframes into a 
 ## Screen Design Process
 
 ### Initial Low-Fidelity Wireframe
-<br><img src= "lofi-wireframe.png" width=50% height=50%> <br>
+<br><img src= "lofi-wireframe.png" width=40% height=40%> <br>
 
 ### Design and GUI Component Layout
 ![Layout](layout.png)

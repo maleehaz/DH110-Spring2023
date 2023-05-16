@@ -1,5 +1,6 @@
 # DH110 Assignment 6: Interface Design System
 # Maleeha Zaman
+
 ## Description of Project
 My goal for this project is to design a mobile platform where people of all backgrounds and ages can craft and experience their own family archive in a creative and simple way, collaborate with other family members, explore their family lineage, and have unlimited space to store important media (photos, audio recordings, documents, videos, journal entries). I decided to name the platform "Memoire", which is french for memory. It is also a play on the word "memoir" which means a historical account written from personal knowledge in the english language. It reflects the nostalgia users feel when they look back on their family memories and emphasizes the user's ability to tell a story about their own family. 
 

@@ -1,7 +1,8 @@
 # DH110 Assignment 6: Interface Design System
 # Maleeha Zaman
 ## Description of Project
-My goal for this project is to design a mobile platform where people of all backgrounds and ages can craft and experience their own family archive in a creative and simple way, collaborate with other family members, explore their family lineage, and have unlimited space to store important media (photos, audio recordings, documents, videos, journal entries). I decided to name the platform "Memoire", which is french for memory but also a play on how the english word "memoir" which means a historical account written from personal knowledge. It reflects the nostalgia users feel when they look back on their family memories and emphasizes the user's ability to tell a story about their own family. 
+My goal for this project is to design a mobile platform where people of all backgrounds and ages can craft and experience their own family archive in a creative and simple way, collaborate with other family members, explore their family lineage, and have unlimited space to store important media (photos, audio recordings, documents, videos, journal entries). I decided to name the platform "Memoire", which is french for memory. It is also a play on the word "memoir" which means a historical account written from personal knowledge in the english language. It reflects the nostalgia users feel when they look back on their family memories and emphasizes the user's ability to tell a story about their own family. 
+
 ## Purpose of Interface Design
 The purpose of interface design is to convert my low-fidelity wireframes into a digital form with a more developed design on Figma. Good interface design is simple, not overwhelming for the user, and separates information into readable blocks using principles of design, such as gestalt theory and color contrast accessibility. A well-designed app will make it more intuitive for users to navigate and find the information they need. The screen I decided to design was the home page, which shows the family tree which serves as a basis for the app where the user can view all their family members at once. 
 
@@ -42,9 +43,11 @@ I tested variations of the **tree** and **share** icons. If I had more time on t
 
 ### Additional Detailing
 ![Details](additional-detailing.png)
+I added a single rounded corner to the **top navigation bar** with a radius of 50px, I felt this added more movement and less blockiness to the app design. I also thought it made it look like a bookmark inside of a journal, making the app look more personable and inviting. I did variations with the **Memoire logo icon** using a star, heart, and lotus. The star made the app look more related to astrology and I felt the heart made it look less refined. I ended up going with the lotus because it was simple, but it also fanned out like a growing tree and complimented the family tree feature pretty well. Lotuses are also known to be symbols of enlightenment and rebirth. Finally, I ended up conjoining the parent cards because I felt it emphasized their marriage a lot more.
 
 ### Color Variations
 ![Color Variations](color-variations.png)
+I created a light and dark mode of my design, with some changes in the color palette depending on its usage on light/dark mode. I created two major variations of light mode, one with a primarily beige color scheme and the other with a mix of beige contrasted against a light brown color scheme. Each major variation has three smaller variations that consist of blue, pink, or green. The dark mode has three variations as well with blue, pink, or green. For the impression test, I decided to go with the primarily beige variation because it felt the most like a light mode to me. I ended up choosing pink for both the light and dark modes. 
 
 ## Impression Testing
 I conducted an impression test (see [recording](https://drive.google.com/file/d/1TelFFi6r_YU-4mCxXWEY4DcXNqyBNNou/view?usp=sharing) and [transcript](https://drive.google.com/file/d/1TX0g7G5eSbzRDh0sMSxa4UWZ6CJXzsDf/view?usp=sharing)) over zoom.
@@ -78,8 +81,12 @@ Then, I sent her the prototype link and asked her to look at the screen and give
 * Prefers dark mode because lines and boundaries felt more clear
 ### Additional Feedback
 * Emphasized changing the font to something less "curly" 
+* Suggested to thicken the tree connector lines so they were more visible and clear
 * Noted that having parent cards be conjoined together could not be scalable to people with more complex families (eg. parents who have been in more than one marriage or had kids with other partners) 
-  * Suggested instead of having them conjoined, have them linked by another line (*My response to this critique is to keep married members conjoined, and those who had kids but are no longer married connected by a line*)   
+  * Suggested instead of having them conjoined, have them linked by another line (*My response to this critique is to keep married members conjoined, and those who had kids but are no longer married connected by a line*)
+  
+## Post-Impression Test Edits
+I changed the font from Averia Serif Libre to Circular STD because I felt it was more important that the app was ledgible and readable over stylistic. I decided to go with the other light mode variations (mix of beige and light brown) in response to my participant saying darker colors made the app feel more archival, and I added more contrast to the variation by darkening the beige in the background more. I also thickened the tree lines to make them more visible and clear. 
 
 ## Accessibility & Contrast Check
 ![Contrast Check](contrast.png)

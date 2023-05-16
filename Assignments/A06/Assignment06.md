@@ -8,7 +8,7 @@ The purpose of interface design is to convert my low-fidelity wireframes into a 
 ## Screen Design Process
 
 ### Initial Low-Fidelity Wireframe
-![Lo-Fi Wireframe](lofi-wireframe.jpg)
+![Lo-Fi Wireframe](lofi-wireframe.png)
 
 ### Design and GUI Component Layout
 ![Layout](layout.png)
@@ -35,31 +35,32 @@ The purpose of interface design is to convert my low-fidelity wireframes into a 
 ![Color Variations](color-variations.png)
 
 ## Impression Testing
-I conducted an impression test (see [recording](https://github.com/maleehaz/DH110-Spring2023/edit/main/Assignments/A06/Assignment06.md) and [transcript](https://github.com/maleehaz/DH110-Spring2023/edit/main/Assignments/A06/Assignment06.md)) over zoom.
+I conducted an impression test (see [recording](https://drive.google.com/file/d/1TelFFi6r_YU-4mCxXWEY4DcXNqyBNNou/view?usp=sharing) and [transcript](https://drive.google.com/file/d/1TX0g7G5eSbzRDh0sMSxa4UWZ6CJXzsDf/view?usp=sharing)) over zoom.
 
 I did a 5-second test first. I showed the design for 5 seconds then asked for her first impressions and what she could remember. 
 ### 5-second-test findings
-* finding 1
-* finding 2
-* finding 3
+* Noticed family tree and intuitively thought tapping on the profile picture would expand into some sort of biography
+* Noted the background was muted and felt nature-esque
+* The app felt "calm" and "connected" to them
 
 Then, I sent her the prototype link and asked her to look at the screen and give me feedback on the design. I asked for specific feedback on typography, color palette, and layout. 
 ### Color Palette
-* finding 1
-* finding 2
-* finding 3
+* The contrast on the light mode wasn't clear enough and felt it looked dull in comparison to the dark mode
+* The tree connector lines in the light mode didn't feel too visible and felt more like an "industrial hierarchy" according to the participant
+* Liked the colorful gradient near the top for both light and dark modes
+* Emphasized how they liked the color palette and contrast on the dark mode a lot, it felt more "archival"
 ### Typography
-* finding 1
-* finding 2
-* finding 3
+* The words were relatively clear, but didn't like the font overall
+* Felt the profile names were difficult to read because it was a serif ("curly") font
+* Thought the font too thick and close together enough to discern what the profile names were
 ### Layout
-* finding 1
-* finding 2
-* finding 3
+* Very straightforward and organized to them
+* Felt the button names and icons were intuitive and they could understand what each icon was for
+* The tree format was evidently a family tree to them, could discern who were the children and who were the parents
 ### Additional Feedback
-* finding 1
-* finding 2
-* finding 3
+* Emphasized changing the font to something less "curly" 
+* Noted that having parent cards be conjoined together could not be scalable to people with more complex families (eg. parents who have been in more than one marriage or had kids with other partners) 
+  * Suggested instead of having them conjoined, have them linked by another line   
 
 ## Accessibility & Contrast Check
 ![Contrast Check](contrast.png)

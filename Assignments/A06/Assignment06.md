@@ -8,6 +8,7 @@ My goal for this project is to design a mobile platform where people of all back
 The purpose of interface design is to convert my low-fidelity wireframes into a digital form with a more developed design on Figma. Good interface design is simple, not overwhelming for the user, and separates information into readable blocks using principles of design, such as gestalt theory and color contrast accessibility. A well-designed app will make it more intuitive for users to navigate and find the information they need. The screen I decided to design was the home page, which shows the family tree which serves as a basis for the app where the user can view all their family members at once. 
 
 ## Screen Design Process
+[Figma File](https://www.figma.com/file/L3cNnAB4M9tVsnrlHNfF2R/Interface-Design-Memoire?type=design&node-id=86%3A14&t=g37jZMpNhs5qkDWW-1) 
 
 ### Initial Low-Fidelity Wireframe
 <br><img src= "lofi-wireframe.png" width=40% height=40%> <br>

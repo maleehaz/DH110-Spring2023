@@ -79,7 +79,7 @@ Then, I sent her the prototype link and asked her to look at the screen and give
 ### Additional Feedback
 * Emphasized changing the font to something less "curly" 
 * Noted that having parent cards be conjoined together could not be scalable to people with more complex families (eg. parents who have been in more than one marriage or had kids with other partners) 
-  * Suggested instead of having them conjoined, have them linked by another line   
+  * Suggested instead of having them conjoined, have them linked by another line (*My response to this critique is to keep married members conjoined, and those who had kids but are no longer married connected by a line*)   
 
 ## Accessibility & Contrast Check
 ![Contrast Check](contrast.png)

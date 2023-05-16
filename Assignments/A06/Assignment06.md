@@ -15,13 +15,13 @@ The purpose of interface design is to convert my low-fidelity wireframes into a 
 ![Layout](layout.png)
 For the layout of my design, I used three different grids to align different items on the Family Tree page:
 1. Top Navigation and Edit Button
-> 2 column grid with 24px margin, 18px gutter
-> 8 row grid with 32px margin, 18px gutter
+*  2 column grid with 24px margin, 18px gutter
+*  8 row grid with 32px margin, 18px gutter
 2. Bottom Navigation Bar
-> 3 column grid with 24px margin, 32px gutter
-3. Family Tree
-> 3 column grid with 24px margin, 32px gutter
-> 10 row grid with 38px margin, 20px gutter
+*  3 column grid with 24px margin, 32px gutter
+4. Family Tree
+*  3 column grid with 24px margin, 32px gutter
+*  10 row grid with 38px margin, 20px gutter
 
 ### Typographic Variations
 ![Typography](typography.png)

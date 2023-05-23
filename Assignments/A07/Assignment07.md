@@ -22,7 +22,7 @@ My project is a family archival app called "Memoire" where users can can craft a
  
 > _The user clicks on the share button on the bottom navigation bar. Then they click on search profiles and type in Sarah Khan's username "sarahkhan01", and her profile pops up. The user would click on her profile and be prompted as to whether they want to invite the profile. The user would select yes and be notified that the profile was invited._
 
-### Task 4: Scan a document and add it to one of the entries in one of your archives
+### Task 4: Scan a document and add it to an archive entry
 > **Scenario**: You visit your cousin, Yasmin Yusof, who just graduated high school. She shows you her high school diploma and you recall Yasmin forgot to add the diploma to the archive. You decide to scan her diploma and add it to her entry for her high school graduation. Find the entry for Yasmin's high school graduation, then scan and add her diploma to it.
 
 > _The user clicks on archives on the navigation bar. They will look through the archives and find and click one called "High School Graduations". They would click on the entry box labelled "Yasmin finishes HS", which will navigate the user to a full page with the entire gallery within the entry. They will then click on add media where they will be prompted with pop-up asking them whether to scan or upload. They would click on scan and be directed to a camera with edge-detecting software where they will be able to scan the diploma. They will then click on add scans which is in the bottom right corner, where they will be prompted as to whether they want to add a caption. The user may add a caption if they choose, then click add to entry where the system will notfy them that the scan was added to the entry's gallery._

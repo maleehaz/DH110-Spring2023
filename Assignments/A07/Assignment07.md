@@ -4,7 +4,7 @@
 ## Overview
 My project is a family archival app called "Memoire" where users can can craft and experience their own family archive in a creative and simple way, collaborate with other family members, explore their family lineage, and have unlimited space to store important media (photos, audio recordings, documents, videos, journal entries). 
 
-**Purpose of Interactive Prototype**: The following interactive prototype is designed to solve and illustrate four features for family archival, family sharing, and media uploading/scanning. The purpose of creating this high-fidelity prototype is to visualize important functions and make improvements to user interactions and design. 
+**Purpose of Interactive Prototype**: The following interactive prototype is designed to solve and illustrate four features for family archival, family sharing, and media uploading/scanning. The purpose of creating this high-fidelity prototype is to visualize important functions and make improvements to user interactions and design. Furthermore, by having users test an interactive prototype via cognitive walkthrough, issues in UI/UX can be identified and we can visually see how user's interact with the product.  
 
 ## Tasks 
 1. Add a new member to the family tree
@@ -28,7 +28,15 @@ My project is a family archival app called "Memoire" where users can can craft a
 > _The user clicks on archives on the navigation bar. They will look through the archives and find and click one called "High School Graduations". They would click on the entry box labelled "Yasmin finishes HS", which will navigate the user to a full page with the entire gallery within the entry. They will then click on add media where they will be prompted with pop-up asking them whether to scan or upload. They would click on scan and be directed to a camera with edge-detecting software where they will be able to scan the diploma. They will then click on add scans which is in the bottom right corner, where they will be prompted as to whether they want to add a caption. The user may add a caption if they choose, then click add to entry where the system will notfy them that the scan was added to the entry's gallery._
 
 ## Wireflow with Interface Design
-![WF with Interface Design](Wireflow-High-Fi-Prototype.png)
+![WF with Interface Design](High-Fi-Prototype-Wireflow.png)
+### Task 1 Wireflow
+![t1](wf-task1.png)
+### Task 2 Wireflow
+![t2](wf-task2.png)
+### Task 3 Wireflow
+![t3](wf-task3.png)
+### Task 4 Wireflow
+![t4](wf-task4.png)
 
 ## Interactive Prototype
 * Interactive prototype for [Task 1](https://www.figma.com/proto/qyKS75FVXucBd1Eip6xdSW/High-Fidelity-Prototype?page-id=0%3A1&type=design&node-id=1-3&viewport=659%2C-402%2C0.13&scaling=scale-down&starting-point-node-id=1%3A3&show-proto-sidebar=1)

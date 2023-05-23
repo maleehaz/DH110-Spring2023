@@ -31,7 +31,8 @@ My project is a family archival app called "Memoire" where users can can craft a
 ![WF with Interface Design](Wireflow-High-Fi-Prototype.png)
 
 ## Interactive Prototype
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FqyKS75FVXucBd1Eip6xdSW%2FHigh-Fidelity-Prototype%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D88-1471%26viewport%3D659%252C-402%252C0.13%26scaling%3Dscale-down%26starting-point-node-id%3D1%253A3" allowfullscreen></iframe>
+* Interactive prototype for [Task 1](https://www.figma.com/proto/qyKS75FVXucBd1Eip6xdSW/High-Fidelity-Prototype?page-id=0%3A1&type=design&node-id=1-3&viewport=659%2C-402%2C0.13&scaling=scale-down&starting-point-node-id=1%3A3&show-proto-sidebar=1)
+* Interactive prototype for [Task 2-4](https://www.figma.com/proto/qyKS75FVXucBd1Eip6xdSW/High-Fidelity-Prototype?page-id=0%3A1&type=design&node-id=88-1471&viewport=659%2C-402%2C0.13&scaling=scale-down&starting-point-node-id=88%3A1471&show-proto-sidebar=1)
 
 ## In-Class Cognitive Walkthrough
 

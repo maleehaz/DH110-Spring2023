@@ -28,7 +28,7 @@ My project is a family archival app called "Memoire" where users can can craft a
 > _The user clicks on archives on the navigation bar. They will look through the archives and find and click one called "High School Graduations". They would click on the entry box labelled "Yasmin finishes HS", which will navigate the user to a full page with the entire gallery within the entry. They will then click on add media where they will be prompted with pop-up asking them whether to scan or upload. They would click on scan and be directed to a camera with edge-detecting software where they will be able to scan the diploma. They will then click on add scans which is in the bottom right corner, where they will be prompted as to whether they want to add a caption. The user may add a caption if they choose, then click add to entry where the system will notfy them that the scan was added to the entry's gallery._
 
 ## Wireflow with Interface Design
-![WF with Interface Design](High-Fi-Prototype-Wireflow.png)
+![WF with Interface Design](Hi-Fi-Prototype-Wireflow.png)
 ### Task 1 Wireflow
 ![t1](wf-task1.png)
 ### Task 2 Wireflow

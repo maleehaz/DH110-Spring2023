@@ -45,3 +45,9 @@ My project is a family archival app called "Memoire" where users can can craft a
 ## Cognitive Walkthrough
 For first impressions, my classmates liked the design a lot. They mentioned they like the colors and the layout, and how the font was very readable. They all thought the app's goal was to primarily keep track of your own family tree. During the in-class walkthrough, I had them add a family member, invite a family member to view and edit the archive, and play a timelapse.
 They all found the tasks to be very intuitive, especially adding a member and sharing the family tree. One classmate noted that the timelapse feature was difficult to navigate at first because it felt more hidden. They were unsure whether to look for the timelapse in the archives or in the family tree. Overall, they describe the app was very detailed and easy to use, the app felt pretty self-explanatory and they had little to no confusion when navigating it. 
+
+## Iterations
+One user was concerned with the hidden nature of the timelapse task. In response to that, I added a bit of help documentation to the family tree page where users can click on the question mark and are told more about the actions they can perform on the family tree. Hopefully this would encourage users to explore the timelapse function as the help documentation encourages them to open a family member's details to play a timelapse. 
+![treehelp1](iteration1.png) ![treehelp2](iteration2.png)
+I also changed the member profile details page a bit as well to improve the design. I changed the back arrow button to an x-button, and added a slide in and out transition to make the switch between screens feel more intuitive. I also changed the play button to something without round edges to look more refined. 
+![amir1](amirkhan1.png) ![amir2](amirkhan2.png)

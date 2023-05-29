@@ -42,5 +42,6 @@ My project is a family archival app called "Memoire" where users can can craft a
 * Interactive prototype for [Task 1](https://www.figma.com/proto/qyKS75FVXucBd1Eip6xdSW/High-Fidelity-Prototype?page-id=0%3A1&type=design&node-id=1-3&viewport=659%2C-402%2C0.13&scaling=scale-down&starting-point-node-id=1%3A3&show-proto-sidebar=1)
 * Interactive prototype for [Task 2-4](https://www.figma.com/proto/qyKS75FVXucBd1Eip6xdSW/High-Fidelity-Prototype?page-id=0%3A1&type=design&node-id=88-1471&viewport=659%2C-402%2C0.13&scaling=scale-down&starting-point-node-id=88%3A1471&show-proto-sidebar=1)
 
-## In-Class Cognitive Walkthrough
-
+## Cognitive Walkthrough
+For first impressions, my classmates liked the design a lot. They mentioned they like the colors and the layout, and how the font was very readable. They all thought the app's goal was to primarily keep track of your own family tree. During the in-class walkthrough, I had them add a family member, invite a family member to view and edit the archive, and play a timelapse.
+They all found the tasks to be very intuitive, especially adding a member and sharing the family tree. One classmate noted that the timelapse feature was difficult to navigate at first because it felt more hidden. They were unsure whether to look for the timelapse in the archives or in the family tree. Overall, they describe the app was very detailed and easy to use, the app felt pretty self-explanatory and they had little to no confusion when navigating it. 

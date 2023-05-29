@@ -49,7 +49,7 @@ They all found the tasks to be very intuitive, especially adding a member and sh
 ## Iterations
 I mainly added more back and forward flows, and made the prototype much more user friendly by merging all the flows (task 1 flow and task 2-4 flows) into one so users can complete all the tasks starting from the same flow. I did this because my classmates were confused as to which flow to start from and wanted to explore the app all at once. Now the app should feel more explorable and easy to navigate with all the flows connected to each other and not separated like task like before. <br>
 One user was concerned with the hidden nature of the timelapse task. In response to that, I added a bit of help documentation to the family tree page where users can click on the question mark and are told more about the actions they can perform on the family tree. Hopefully this would encourage users to explore the timelapse function as the help documentation encourages them to open a family member's details to play a timelapse. <br>
-<img src="iteration1.png" width=25% height=25%> <img src="iteration2.png" width=26% height=26%> <br>
+<img src="iteration1.png" width=25% height=25%> <img src="iteration2.png" width=25.5% height=25.5%> <br>
 I also changed the member profile details page a bit as well to improve the design. I changed the back arrow button to an x-button, and added a slide in and out transition to make the switch between screens feel more intuitive. I also changed the play button to something without round edges to look more refined. <br>
 <img src="amirkhan1.png" width=50% height=50%> <img src="amirkhan2.png" width=50% height=50%> 
 ## Reflection
